@@ -1,0 +1,144 @@
+{
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "intro": "Ovelyra ist als datenschutzorientiertes Offline-Tagebuch konzipiert. Tagebücher, Stimmungen, Träume, Fotos, Sprachnotizen, Antworten und Erinnerungskapseln bleiben auf deinem Gerät und werden nicht auf einen Ovelyra-Server hochgeladen.",
+    "sections": [
+      {
+        "heading": "Daten auf deinem Gerät",
+        "body": [
+          "Kein Konto und keine Cloud-Synchronisierung sind erforderlich. Private Inhalte bleiben verschlüsselt lokal gespeichert, bis du sie löschst, die App zurücksetzt oder selbst ein Backup exportierst.",
+          "Gelöschte Einträge können bis zu 30 Tage im lokalen Papierkorb verbleiben."
+        ]
+      },
+      {
+        "heading": "Berechtigungen",
+        "body": [
+          "Benachrichtigungen dienen Erinnerungen. Foto/Kamera wird nur beim Hinzufügen eines Bildes, Mikrofon nur bei einer Sprachaufnahme angefragt. Standort und Kontakte werden für Kernfunktionen nicht benötigt."
+        ]
+      },
+      {
+        "heading": "Werbung und Käufe",
+        "body": [
+          "Free-Nutzer können auf ausgewählten Unterseiten Google Mobile Ads sehen und freiwillig eine Rewarded Ad für 12 Stunden Ovelyra Plus ansehen. Google und Partner können begrenzte Geräte-, Netzwerk-, Werbe- und Einwilligungsdaten nach eigenen Richtlinien verarbeiten.",
+          "Abonnements werden durch Apple App Store oder Google Play abgerechnet. Ovelyra kann Kauf- und Berechtigungsstatus erhalten, jedoch keine vollständigen Kartendaten."
+        ]
+      },
+      {
+        "heading": "Backups und Teilen",
+        "body": [
+          "Verschlüsselte .ovelyra-Backups entstehen nur auf deine Anforderung. Beim Teilen eines Backups, PDFs oder Bildes kann der gewählte Zieldienst die Datei nach eigenen Bedingungen verarbeiten."
+        ]
+      },
+      {
+        "heading": "Deine Kontrolle",
+        "body": [
+          "Du kannst lokale Daten löschen, Benachrichtigungen ändern, verfügbare Werbe-Datenschutzoptionen verwalten und Abonnements im jeweiligen Store verwalten."
+        ]
+      },
+      {
+        "heading": "Kontakt",
+        "body": [
+          "Datenschutz und Support: serhatdagapps@gmail.com."
+        ]
+      }
+    ]
+  },
+  "kvkk": {
+    "title": "KVKK-Informationshinweis",
+    "intro": "Dies ist eine informative Übersetzung des türkischen KVKK-Hinweises. Für die Auslegung nach türkischem Recht ist die türkische Fassung maßgeblich.",
+    "sections": [
+      {
+        "heading": "Verantwortlicher und Kontakt",
+        "body": [
+          "Der Entwickler von Ovelyra ist für die von ihm kontrollierten Verarbeitungsvorgänge verantwortlich. Kontakt: serhatdagapps@gmail.com."
+        ]
+      },
+      {
+        "heading": "Daten und Zwecke",
+        "body": [
+          "Private Tagebuchinhalte bleiben auf dem Gerät. Google Mobile Ads, Google Play und Apple App Store können begrenzte technische, Werbe-, Einwilligungs- und Kaufstatusdaten für Werbung, Einwilligungsmanagement, Abrechnung, Betrugsprävention und Store-Betrieb verarbeiten."
+        ]
+      },
+      {
+        "heading": "Methode und Rechtsgrundlagen",
+        "body": [
+          "Die Verarbeitung kann automatisiert über App und integrierte SDKs erfolgen, soweit sie zur Dienstbereitstellung, Erfüllung gesetzlicher Pflichten, Vertragsdurchführung, berechtigten Interessen oder bei gesetzlicher Erforderlichkeit auf Grundlage einer Einwilligung notwendig ist."
+        ]
+      },
+      {
+        "heading": "Übermittlungen",
+        "body": [
+          "Google oder Apple können Daten entsprechend ihrer Infrastruktur und rechtlichen Garantien in anderen Ländern verarbeiten. Ovelyra betreibt keine eigene Cloud-Datenbank für private Tagebuchinhalte."
+        ]
+      },
+      {
+        "heading": "Rechte",
+        "body": [
+          "Anfragen zu anwendbaren türkischen Datenschutzrechten können an serhatdagapps@gmail.com gesendet werden."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "intro": "Diese Bedingungen regeln die Nutzung von Ovelyra und Ovelyra Plus.",
+    "sections": [
+      {
+        "heading": "Persönliches Tagebuch",
+        "body": [
+          "Ovelyra ist ein Werkzeug für Tagebuch und Selbstreflexion und ersetzt keine medizinische, psychologische, rechtliche oder Notfallberatung."
+        ]
+      },
+      {
+        "heading": "Inhalte und Backups",
+        "body": [
+          "Du bist für deine Einträge und selbst erstellten Backups verantwortlich. Ohne eigenes Backup können gelöschte lokale Daten möglicherweise nicht wiederhergestellt werden."
+        ]
+      },
+      {
+        "heading": "Ovelyra Plus",
+        "body": [
+          "Monatliche und jährliche Abonnements werden über Apple App Store oder Google Play gekauft und verwaltet und können sich nach Store-Bedingungen automatisch verlängern.",
+          "Eine Rewarded Ad kann eine 12-stündige Testphase freischalten. Sie ist kein bezahltes Abo und hebt das Free-Limit von 3 Erinnerungskapseln nicht auf."
+        ]
+      },
+      {
+        "heading": "Inhalte nach Plus",
+        "body": [
+          "Während eines bezahlten Abos erstellte Inhalte werden nach Ablauf nicht gelöscht. Neue Inhalte können gemäß Free-Limits eingeschränkt sein."
+        ]
+      },
+      {
+        "heading": "Kontakt",
+        "body": [
+          "Support: serhatdagapps@gmail.com."
+        ]
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "intro": "Brauchst du Hilfe mit Ovelyra?",
+    "sections": [
+      {
+        "heading": "Kontakt",
+        "body": [
+          "E-Mail: serhatdagapps@gmail.com",
+          "Nenne Gerätemodell, Android/iOS-Version, Ovelyra-Version und eine kurze Fehlerbeschreibung. Sende keine privaten Tagebuchtexte oder Backup-Passwörter, sofern nicht unbedingt nötig."
+        ]
+      },
+      {
+        "heading": "Private Daten",
+        "body": [
+          "Ovelyra betreibt kein Entwicklerkonto oder Cloud-Tagebuch. Wir können deine Einträge oder dein Backup-Passwort normalerweise weder sehen noch wiederherstellen."
+        ]
+      },
+      {
+        "heading": "Abonnements",
+        "body": [
+          "Abrechnung, Kündigung und Erstattungen werden über Apple App Store oder Google Play verwaltet."
+        ]
+      }
+    ]
+  }
+}

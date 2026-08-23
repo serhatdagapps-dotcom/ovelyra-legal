@@ -1,0 +1,144 @@
+{
+  "privacy": {
+    "title": "गोपनीयता नीति",
+    "intro": "Ovelyra को privacy-first, offline-first journal के रूप में बनाया गया है। आपकी journal entries, moods, dreams, photos, voice notes, answers और memory capsules आपके डिवाइस पर रहती हैं और Ovelyra server पर upload नहीं होतीं।",
+    "sections": [
+      {
+        "heading": "डिवाइस पर डेटा",
+        "body": [
+          "Account या cloud sync आवश्यक नहीं है। निजी सामग्री encrypted local storage में रहती है जब तक आप उसे हटाएँ, app reset करें या स्वयं backup export करें।",
+          "हटाए गए items local Trash में 30 दिनों तक रह सकते हैं।"
+        ]
+      },
+      {
+        "heading": "Permissions",
+        "body": [
+          "Notifications reminders के लिए, photo/camera केवल image जोड़ने पर और microphone केवल voice note रिकॉर्ड करने पर माँगा जाता है। Core features के लिए location या contacts की आवश्यकता नहीं है।"
+        ]
+      },
+      {
+        "heading": "Ads और purchases",
+        "body": [
+          "Free users कुछ secondary screens पर Google Mobile Ads देख सकते हैं और 12 घंटे Ovelyra Plus आज़माने के लिए rewarded ad चुन सकते हैं। Google और उसके partners अपनी policies के तहत सीमित device, network, advertising और consent data process कर सकते हैं।",
+          "Subscription payments Apple App Store या Google Play process करता है। Ovelyra purchase/entitlement status पा सकता है, लेकिन आपके पूरे card details नहीं।"
+        ]
+      },
+      {
+        "heading": "Backup और sharing",
+        "body": [
+          "Encrypted .ovelyra backup केवल आपके कहने पर बनता है। System share sheet से भेजी गई file चुनी हुई service की terms के अनुसार process हो सकती है।"
+        ]
+      },
+      {
+        "heading": "आपका नियंत्रण",
+        "body": [
+          "आप local data manage/delete कर सकते हैं, notifications बदल सकते हैं, उपलब्ध ad-privacy choices और store subscription settings manage कर सकते हैं।"
+        ]
+      },
+      {
+        "heading": "संपर्क",
+        "body": [
+          "Privacy और support: serhatdagapps@gmail.com."
+        ]
+      }
+    ]
+  },
+  "kvkk": {
+    "title": "KVKK सूचना नोटिस",
+    "intro": "यह Turkish KVKK notice का informational translation है। Turkish law के तहत interpretation के लिए Turkish text प्राथमिक है।",
+    "sections": [
+      {
+        "heading": "Data controller और contact",
+        "body": [
+          "Ovelyra developer अपने नियंत्रण वाले processing के लिए data controller के रूप में कार्य करता है। Contact: serhatdagapps@gmail.com."
+        ]
+      },
+      {
+        "heading": "Data और purposes",
+        "body": [
+          "Private journal content device पर रहता है। Google Mobile Ads, Google Play और Apple App Store ads, consent management, billing, fraud prevention और store operations के लिए सीमित technical, advertising, consent और purchase-status data process कर सकते हैं।"
+        ]
+      },
+      {
+        "heading": "Method और legal grounds",
+        "body": [
+          "Processing app और integrated SDKs के माध्यम से automatically हो सकती है जहाँ service देने, legal obligations, contract, compatible legitimate interests या कानून द्वारा आवश्यक consent के लिए जरूरी हो।"
+        ]
+      },
+      {
+        "heading": "Transfers",
+        "body": [
+          "Google या Apple अपनी infrastructure और legal safeguards के अनुसार अन्य देशों में data process कर सकते हैं। Ovelyra private journal content के लिए अपना cloud database नहीं चलाता।"
+        ]
+      },
+      {
+        "heading": "Rights",
+        "body": [
+          "Turkey में लागू data-protection rights के लिए serhatdagapps@gmail.com पर संपर्क किया जा सकता है।"
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "उपयोग की शर्तें",
+    "intro": "ये शर्तें Ovelyra और Ovelyra Plus के उपयोग पर लागू होती हैं।",
+    "sections": [
+      {
+        "heading": "Personal journal",
+        "body": [
+          "Ovelyra journaling और reflection tool है; medical, psychological, legal या emergency advice नहीं देता।"
+        ]
+      },
+      {
+        "heading": "Content और backups",
+        "body": [
+          "आप अपनी entries और backups के लिए जिम्मेदार हैं। आपके अपने backup के बिना deleted local data recover न हो सके।"
+        ]
+      },
+      {
+        "heading": "Ovelyra Plus",
+        "body": [
+          "Monthly/yearly subscriptions Apple App Store या Google Play से खरीदी और manage की जाती हैं और store terms के अनुसार auto-renew हो सकती हैं।",
+          "Rewarded ad से 12-hour trial मिल सकता है। यह paid subscription नहीं है और Free के 3 memory-capsule limit को नहीं हटाता।"
+        ]
+      },
+      {
+        "heading": "Plus खत्म होने के बाद",
+        "body": [
+          "Paid subscription के दौरान बनाया गया content subscription खत्म होने पर delete नहीं होता। New creation Free limits के अनुसार restricted हो सकती है।"
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "Support: serhatdagapps@gmail.com."
+        ]
+      }
+    ]
+  },
+  "support": {
+    "title": "सहायता",
+    "intro": "Ovelyra में मदद चाहिए?",
+    "sections": [
+      {
+        "heading": "Contact",
+        "body": [
+          "Email: serhatdagapps@gmail.com",
+          "Device model, Android/iOS version, Ovelyra version और समस्या का छोटा विवरण भेजें। जरूरत न हो तो private journal text या backup password न भेजें।"
+        ]
+      },
+      {
+        "heading": "Private data",
+        "body": [
+          "Ovelyra developer-operated cloud journal account/database नहीं चलाता। हम सामान्यतः आपकी entries या backup password देख या recover नहीं कर सकते।"
+        ]
+      },
+      {
+        "heading": "Subscriptions",
+        "body": [
+          "Billing, cancellation और refunds Apple App Store या Google Play से manage होते हैं।"
+        ]
+      }
+    ]
+  }
+}

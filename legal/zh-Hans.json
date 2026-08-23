@@ -1,0 +1,144 @@
+{
+  "privacy": {
+    "title": "隐私政策",
+    "intro": "Ovelyra 是一款以隐私和离线使用为优先的日记应用。你的日记、心情、梦境、照片、语音笔记、问题回答和回忆胶囊保存在设备上，不会上传到 Ovelyra 自有服务器。",
+    "sections": [
+      {
+        "heading": "设备上的数据",
+        "body": [
+          "无需账号或云同步。私人内容会保存在本地加密存储中，直到你删除、重置应用或自行导出备份。",
+          "删除的项目可能在本地回收站中保留最多30天。"
+        ]
+      },
+      {
+        "heading": "权限",
+        "body": [
+          "通知用于提醒；照片/相机仅在添加图片时请求；麦克风仅在录制语音时请求。核心功能不需要位置或通讯录权限。"
+        ]
+      },
+      {
+        "heading": "广告和购买",
+        "body": [
+          "Free 用户可能在部分二级页面看到 Google Mobile Ads，也可以自愿观看奖励广告以体验12小时 Ovelyra Plus。Google 及其合作伙伴可能按其政策处理有限的设备、网络、广告和同意相关数据。",
+          "订阅付款由 Apple App Store 或 Google Play 处理。Ovelyra 可能获得购买/权益状态，但不会获得完整银行卡信息。"
+        ]
+      },
+      {
+        "heading": "备份和分享",
+        "body": [
+          "加密的 .ovelyra 备份仅在你主动要求时创建。通过系统分享菜单发送文件后，目标服务可能按其条款处理该文件。"
+        ]
+      },
+      {
+        "heading": "你的控制",
+        "body": [
+          "你可以管理或删除本地数据，调整通知、可用的广告隐私选项，并在应用商店管理订阅。"
+        ]
+      },
+      {
+        "heading": "联系",
+        "body": [
+          "隐私与支持：serhatdagapps@gmail.com"
+        ]
+      }
+    ]
+  },
+  "kvkk": {
+    "title": "KVKK 信息说明",
+    "intro": "这是土耳其 KVKK 说明的参考译文。涉及土耳其法律解释时，以土耳其语文本为准。",
+    "sections": [
+      {
+        "heading": "数据控制者与联系",
+        "body": [
+          "Ovelyra 开发者对其控制范围内的数据处理活动承担数据控制者角色。联系：serhatdagapps@gmail.com"
+        ]
+      },
+      {
+        "heading": "数据和目的",
+        "body": [
+          "私人日记内容保存在设备上。Google Mobile Ads、Google Play 和 Apple App Store 可能为广告、同意管理、计费、防欺诈和商店运营处理有限的技术、广告、同意和购买状态数据。"
+        ]
+      },
+      {
+        "heading": "方式与法律依据",
+        "body": [
+          "在提供服务、履行法律义务、执行合同、适当的合法利益或法律要求同意的情况下，数据可能通过应用及集成 SDK 自动处理。"
+        ]
+      },
+      {
+        "heading": "跨境处理",
+        "body": [
+          "Google 或 Apple 可能根据其基础设施和法律保障在其他国家处理数据。Ovelyra 不运营用于私人日记内容的自有云数据库。"
+        ]
+      },
+      {
+        "heading": "你的权利",
+        "body": [
+          "关于土耳其适用数据保护权利的请求可发送至 serhatdagapps@gmail.com。"
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "使用条款",
+    "intro": "本条款适用于 Ovelyra 和 Ovelyra Plus。",
+    "sections": [
+      {
+        "heading": "个人日记工具",
+        "body": [
+          "Ovelyra 是日记与自我反思工具，不提供医疗、心理、法律或紧急建议。"
+        ]
+      },
+      {
+        "heading": "内容和备份",
+        "body": [
+          "你需要对自己的记录和备份负责。如果没有自己的备份，已删除的本地数据可能无法恢复。"
+        ]
+      },
+      {
+        "heading": "Ovelyra Plus",
+        "body": [
+          "月度/年度订阅通过 Apple App Store 或 Google Play 购买和管理，并可能按商店展示的条款自动续订。",
+          "奖励广告可能提供12小时体验。这不是付费订阅，Free 的3个回忆胶囊限制不会被解除。"
+        ]
+      },
+      {
+        "heading": "Plus 结束后的内容",
+        "body": [
+          "付费订阅期间创建的内容不会因订阅结束而被删除；新建内容可能受到 Free 规则限制。"
+        ]
+      },
+      {
+        "heading": "联系",
+        "body": [
+          "支持：serhatdagapps@gmail.com"
+        ]
+      }
+    ]
+  },
+  "support": {
+    "title": "支持",
+    "intro": "需要 Ovelyra 帮助吗？",
+    "sections": [
+      {
+        "heading": "联系",
+        "body": [
+          "邮箱：serhatdagapps@gmail.com",
+          "请提供设备型号、Android/iOS 版本、Ovelyra 版本和简短问题描述。非必要请不要发送私人日记内容或备份密码。"
+        ]
+      },
+      {
+        "heading": "私人数据",
+        "body": [
+          "Ovelyra 没有由开发者运营的云端日记账号/数据库，因此我们通常无法查看或恢复你的日记或备份密码。"
+        ]
+      },
+      {
+        "heading": "订阅",
+        "body": [
+          "计费、取消和退款由 Apple App Store 或 Google Play 管理。"
+        ]
+      }
+    ]
+  }
+}

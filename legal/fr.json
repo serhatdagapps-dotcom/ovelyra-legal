@@ -1,0 +1,144 @@
+{
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "intro": "Ovelyra est conçu comme un journal privé, d’abord hors ligne. Tes journaux, humeurs, rêves, photos, notes vocales, réponses et capsules restent sur ton appareil et ne sont pas envoyés vers un serveur Ovelyra.",
+    "sections": [
+      {
+        "heading": "Données sur ton appareil",
+        "body": [
+          "Aucun compte ni synchronisation cloud n’est requis. Le contenu privé reste chiffré localement jusqu’à sa suppression, la réinitialisation de l’app ou l’export volontaire d’une sauvegarde.",
+          "Les éléments supprimés peuvent rester jusqu’à 30 jours dans la Corbeille locale."
+        ]
+      },
+      {
+        "heading": "Autorisations",
+        "body": [
+          "Les notifications servent aux rappels. Photos/caméra uniquement pour ajouter une image, microphone uniquement pour enregistrer une note vocale. Localisation et contacts ne sont pas requis pour les fonctions principales."
+        ]
+      },
+      {
+        "heading": "Publicité et achats",
+        "body": [
+          "Les utilisateurs Free peuvent voir Google Mobile Ads sur certaines pages secondaires et choisir une publicité récompensée pour essayer Ovelyra Plus pendant 12 heures. Google et ses partenaires peuvent traiter des données limitées liées à l’appareil, au réseau, à la publicité et au consentement selon leurs politiques.",
+          "Apple App Store ou Google Play traite les paiements d’abonnement. Ovelyra peut recevoir le statut d’achat et d’accès, mais pas les données complètes de carte bancaire."
+        ]
+      },
+      {
+        "heading": "Sauvegardes et partage",
+        "body": [
+          "Les sauvegardes chiffrées .ovelyra ne sont créées qu’à ta demande. Un service choisi via la feuille de partage peut traiter le fichier selon ses propres conditions."
+        ]
+      },
+      {
+        "heading": "Tes contrôles",
+        "body": [
+          "Tu peux gérer ou effacer les données locales, modifier les notifications, les choix de confidentialité publicitaire disponibles et gérer les abonnements dans la boutique."
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "Confidentialité et support : serhatdagapps@gmail.com."
+        ]
+      }
+    ]
+  },
+  "kvkk": {
+    "title": "Notice d’information KVKK",
+    "intro": "Ceci est une traduction informative de la notice turque KVKK. Pour l’interprétation en droit turc, le texte turc prévaut.",
+    "sections": [
+      {
+        "heading": "Responsable et contact",
+        "body": [
+          "Le développeur d’Ovelyra agit comme responsable pour les traitements sous son contrôle. Contact : serhatdagapps@gmail.com."
+        ]
+      },
+      {
+        "heading": "Données et finalités",
+        "body": [
+          "Le contenu privé reste sur l’appareil. Google Mobile Ads, Google Play et Apple App Store peuvent traiter des données techniques, publicitaires, de consentement et de statut d’achat pour la publicité, le consentement, la facturation, la prévention de fraude et les opérations de boutique."
+        ]
+      },
+      {
+        "heading": "Méthode et bases juridiques",
+        "body": [
+          "Le traitement peut être automatisé via l’app et les SDK intégrés lorsque nécessaire à la fourniture du service, aux obligations légales, au contrat, aux intérêts légitimes compatibles ou au consentement lorsque la loi l’exige."
+        ]
+      },
+      {
+        "heading": "Transferts",
+        "body": [
+          "Google ou Apple peuvent traiter des données dans d’autres pays selon leur infrastructure et les garanties applicables. Ovelyra n’exploite pas sa propre base cloud pour le contenu privé du journal."
+        ]
+      },
+      {
+        "heading": "Droits",
+        "body": [
+          "Les demandes relatives aux droits applicables en Turquie peuvent être envoyées à serhatdagapps@gmail.com."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Conditions d’utilisation",
+    "intro": "Ces conditions régissent l’utilisation d’Ovelyra et d’Ovelyra Plus.",
+    "sections": [
+      {
+        "heading": "Journal personnel",
+        "body": [
+          "Ovelyra est un outil de journal et de réflexion, sans conseil médical, psychologique, juridique ou d’urgence."
+        ]
+      },
+      {
+        "heading": "Contenu et sauvegardes",
+        "body": [
+          "Tu restes responsable de tes entrées et sauvegardes. Sans sauvegarde personnelle, des données locales supprimées peuvent être irrécupérables."
+        ]
+      },
+      {
+        "heading": "Ovelyra Plus",
+        "body": [
+          "Les abonnements mensuels et annuels sont achetés et gérés via Apple App Store ou Google Play et peuvent se renouveler automatiquement selon les conditions affichées par la boutique.",
+          "Une publicité récompensée peut offrir 12 heures d’essai. Ce n’est pas un abonnement payant et la limite Free de 3 capsules reste applicable."
+        ]
+      },
+      {
+        "heading": "Après la fin de Plus",
+        "body": [
+          "Le contenu créé pendant un abonnement payant n’est pas supprimé à son expiration. La création de nouveaux éléments peut être limitée selon le plan Free."
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "Support : serhatdagapps@gmail.com."
+        ]
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "intro": "Besoin d’aide avec Ovelyra ?",
+    "sections": [
+      {
+        "heading": "Contact",
+        "body": [
+          "E-mail : serhatdagapps@gmail.com",
+          "Indique le modèle de l’appareil, la version Android/iOS, la version d’Ovelyra et une brève description. N’envoie pas de texte privé ni de mot de passe de sauvegarde sauf nécessité."
+        ]
+      },
+      {
+        "heading": "Données privées",
+        "body": [
+          "Ovelyra n’exploite pas de compte ni de base cloud de journaux. Nous ne pouvons normalement ni voir ni récupérer tes entrées ou mot de passe de sauvegarde."
+        ]
+      },
+      {
+        "heading": "Abonnements",
+        "body": [
+          "Facturation, annulation et remboursement sont gérés via Apple App Store ou Google Play."
+        ]
+      }
+    ]
+  }
+}
