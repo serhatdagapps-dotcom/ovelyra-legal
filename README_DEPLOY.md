@@ -1,7 +1,20 @@
 # Ovelyra Legal Site — GitHub Pages
 
-Bu klasör yalnızca herkese açık yasal/destek sayfaları içindir. Uygulama kaynak kodu, API anahtarı veya kullanıcı verisi eklemeyin.
+Live repository: `serhatdagapps-dotcom/ovelyra-legal`
 
-Yayın zamanı: GitHub üzerinde public `ovelyra-legal` reposu oluştur, bu klasörün içeriğini repository köküne yükle, Settings > Pages > Deploy from a branch > main / root seç. GitHub Pages URL oluşunca uygulamadaki public legal URL sabitleri o adreslerle güncellenecek.
+Live base URL:
+`https://serhatdagapps-dotcom.github.io/ovelyra-legal/`
 
-Destek: serhatdagapps@gmail.com
+To update the live legal site:
+1. Open the public `ovelyra-legal` repository on GitHub.
+2. Upload/replace the contents of this `legal_site` folder at the repository root.
+3. Commit the changes.
+4. GitHub Pages will redeploy automatically from `main` / `(root)`.
+
+Important:
+- Keep the repository public while using GitHub Pages on GitHub Free.
+- Do not upload app source code, API keys, signing files or user data to this legal repository.
+- Data controller: Serhat DAĞ
+- Support/privacy contact: serhatdagapps@gmail.com
+- Current legal-text date: 24 August 2026
+- Re-review these texts whenever SDKs, data practices, subscriptions, prices, consent flows, developer identity/contact details or applicable law changes.

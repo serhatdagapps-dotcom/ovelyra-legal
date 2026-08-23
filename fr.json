@@ -1,0 +1,249 @@
+{
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "intro": "Ovelyra est un journal conçu selon une approche « privacy-first » et « offline-first ». La majeure partie de votre contenu personnel est conservée dans un stockage local chiffré sur votre appareil. Ovelyra n’exploite pas de système de compte ni de base de données de journal dans le cloud contrôlée par le développeur.",
+    "sections": [
+      {
+        "heading": "Dernière mise à jour et responsable du traitement",
+        "body": [
+          "Dernière mise à jour : 24 août 2026. Développeur et responsable des traitements placés sous le contrôle d’Ovelyra : Serhat DAĞ. Contact confidentialité et assistance : serhatdagapps@gmail.com."
+        ]
+      },
+      {
+        "heading": "Informations conservées sur votre appareil",
+        "body": [
+          "Votre nom, langue, avatar, thème, réglages, entrées de journal, humeurs, rêves, photos, notes vocales, réponses aux questions quotidiennes, capsules de souvenirs et réglages de notifications restent stockés localement. Le contenu privé du journal n’est pas envoyé vers un serveur Ovelyra.",
+          "Ovelyra utilise les fonctions de sécurité de l’appareil pour verrouiller l’application. Ovelyra ne reçoit ni ne stocke votre empreinte, image Face ID ou modèle biométrique ; le système d’exploitation renvoie uniquement le résultat de l’authentification.",
+          "Les éléments supprimés peuvent rester jusqu’à 30 jours dans la Corbeille locale sauf suppression définitive plus tôt."
+        ]
+      },
+      {
+        "heading": "Informations pouvant quitter votre appareil",
+        "body": [
+          "Google Mobile Ads et ses outils de consentement peuvent traiter des données techniques et publicitaires limitées nécessaires à l’affichage, la mesure et la protection des annonces. Apple App Store ou Google Play traite les achats et peut transmettre à Ovelyra l’état du produit, de la transaction et de l’abonnement/droit d’accès. Ovelyra ne reçoit pas les données complètes de votre carte bancaire.",
+          "Si vous contactez l’assistance, votre adresse e-mail, votre message et les informations appareil/application que vous choisissez d’envoyer sont traités uniquement pour répondre, dépanner, protéger le service ou respecter des obligations légales. N’envoyez pas de contenu privé du journal, mot de passe de sauvegarde ou autre donnée sensible sauf nécessité.",
+          "Ce site juridique est hébergé sur GitHub Pages. GitHub peut traiter des données techniques de connexion selon ses propres règles. Le site ne conserve que la langue choisie dans le stockage local du navigateur. Ovelyra n’utilise actuellement aucun SDK d’analytics distinct pour votre activité privée de journal."
+        ]
+      },
+      {
+        "heading": "Publicité et consentement",
+        "body": [
+          "Les utilisateurs Free peuvent voir des annonces Google Mobile Ads sur certaines pages secondaires et choisir une annonce récompensée pour une expérience temporaire Ovelyra Plus de 12 heures. Selon la plateforme, la configuration, le consentement et la loi applicable, Google Mobile Ads peut traiter notamment l’adresse IP, une localisation générale déduite de l’IP, des identifiants d’appareil ou publicitaires lorsqu’ils sont disponibles, les interactions avec l’application/les annonces, des données publicitaires, des diagnostics/performances et l’état du consentement.",
+          "Ovelyra n’envoie pas intentionnellement au SDK publicitaire vos textes de journal, historique d’humeur, rêves, photos, notes vocales, réponses aux questions ou capsules. Lorsque cela est requis, Ovelyra utilise les outils de consentement de Google et permet de revoir les choix de confidentialité publicitaire disponibles dans l’application."
+        ]
+      },
+      {
+        "heading": "Abonnements et paiements",
+        "body": [
+          "Les abonnements mensuels et annuels Ovelyra Plus sont achetés via Apple App Store ou Google Play. Ces plateformes gèrent paiement, facturation, renouvellement, annulation et remboursements selon leurs propres conditions. Ovelyra peut recevoir uniquement les informations d’achat et de droit d’accès nécessaires pour activer ou restaurer Plus."
+        ]
+      },
+      {
+        "heading": "Autorisations, widgets et partage",
+        "body": [
+          "L’autorisation de notification est demandée pour les rappels. Photos/caméra uniquement lorsque vous ajoutez une image, microphone uniquement lorsque vous enregistrez un son. Les fonctions principales n’exigent ni contacts ni localisation précise.",
+          "Si vous activez le widget d’écran d’accueil, l’humeur que vous choisissez d’afficher peut être visible sur votre écran d’accueil. Si vous exportez ou partagez une sauvegarde, un PDF, une image ou un autre fichier via la feuille de partage du système, le service de destination traite le fichier selon ses propres conditions."
+        ]
+      },
+      {
+        "heading": "Conservation, suppression et sécurité",
+        "body": [
+          "Le contenu local reste sur l’appareil jusqu’à sa suppression, la réinitialisation de l’application, une désinstallation supprimant les données locales ou le remplacement/restauration des données. Les sauvegardes chiffrées .ovelyra ne sont créées qu’à votre demande ; Ovelyra ne peut pas récupérer un mot de passe de sauvegarde oublié.",
+          "Les messages d’assistance sont conservés uniquement pendant la durée raisonnablement nécessaire pour répondre, dépanner, protéger des droits ou satisfaire des obligations légales, puis supprimés ou minimisés. Les prestataires tiers appliquent leurs propres durées de conservation.",
+          "Ovelyra utilise le chiffrement local et les fonctions de sécurité de la plateforme, sans pouvoir garantir une sécurité absolue."
+        ]
+      },
+      {
+        "heading": "Traitement international",
+        "body": [
+          "Google, Apple et GitHub exploitent des infrastructures mondiales. Les données qu’ils traitent peuvent l’être dans d’autres pays, conformément au droit applicable, à leurs politiques publiées et aux garanties de transfert pertinentes."
+        ]
+      },
+      {
+        "heading": "Vos choix et droits",
+        "body": [
+          "Vous pouvez gérer ou effacer les données locales dans l’application, modifier les notifications, gérer les choix de confidentialité publicitaire disponibles et gérer les abonnements via la boutique concernée. Questions confidentialité, données personnelles ou assistance : serhatdagapps@gmail.com."
+        ]
+      },
+      {
+        "heading": "Modifications",
+        "body": [
+          "Cette politique peut être mise à jour si les fonctions, services intégrés ou exigences légales changent. La date sera modifiée lors d’une révision importante."
+        ]
+      }
+    ]
+  },
+  "kvkk": {
+    "title": "Notice d’information KVKK",
+    "intro": "Ceci est une traduction informative de la notice KVKK turque d’Ovelyra. Pour l’interprétation au regard du droit turc de la protection des données, la version turque fait foi.",
+    "sections": [
+      {
+        "heading": "Responsable du traitement",
+        "body": [
+          "Responsable du traitement : Serhat DAĞ. Contact : serhatdagapps@gmail.com. Dernière mise à jour : 24 août 2026."
+        ]
+      },
+      {
+        "heading": "Contenu local non obtenu par le développeur",
+        "body": [
+          "Les entrées de journal, humeurs, rêves, photos, notes vocales, réponses et capsules sont conçus pour rester sur l’appareil. Ils ne sont pas transmis à un serveur Ovelyra exploité par le développeur et ne sont normalement pas obtenus par Serhat DAĞ."
+        ]
+      },
+      {
+        "heading": "Catégories de données pouvant être traitées",
+        "body": [
+          "Assistance : adresse e-mail, contenu du message, informations appareil/application fournies volontairement et historique de correspondance.",
+          "Publicité/consentement : Google Mobile Ads et ses services de consentement peuvent traiter des identifiants techniques limités, adresse IP, localisation générale dérivée de l’IP, identifiants publicitaires/d’application disponibles, interactions, diagnostics/performances et choix de consentement.",
+          "Achats : Apple App Store ou Google Play peuvent traiter produit, transaction, statut d’abonnement et droit d’accès. Ovelyra ne reçoit pas les données complètes de la carte.",
+          "Site juridique : GitHub Pages peut traiter des données techniques de requête ; la langue choisie est enregistrée localement dans le navigateur."
+        ]
+      },
+      {
+        "heading": "Finalités",
+        "body": [
+          "Répondre à l’assistance, fournir/restaurer Ovelyra Plus, gérer publicité et consentement, prévenir fraude/abus, assurer sécurité et continuité, respecter les obligations légales et exploiter le site juridique/assistance."
+        ]
+      },
+      {
+        "heading": "Méthode et bases juridiques",
+        "body": [
+          "Les données sont obtenues électroniquement et en partie automatiquement via e-mail d’assistance, SDK publicitaires/de consentement, interfaces d’achat des boutiques et site juridique.",
+          "Selon l’activité, le traitement peut reposer sur les bases pertinentes de l’article 5 de la loi turque n° 6698 : nécessité contractuelle, obligation légale, établissement/exercice/protection d’un droit ou intérêt légitime ne portant pas atteinte aux droits fondamentaux. Lorsque la loi exige un consentement pour la personnalisation publicitaire ou une autre activité facultative, celui-ci est recueilli via le mécanisme applicable."
+        ]
+      },
+      {
+        "heading": "Destinataires et transferts",
+        "body": [
+          "Selon la fonction, des données limitées peuvent être traitées par Google pour publicité/consentement, Apple ou Google pour facturation/droits, GitHub pour l’hébergement du site juridique et le service choisi lorsque vous partagez/exportez un fichier. Le contenu privé du journal n’est pas intentionnellement transféré à des fournisseurs publicitaires.",
+          "Les prestataires mondiaux peuvent traiter des données hors de Türkiye conformément aux règles applicables de transfert international, garanties et conditions de service."
+        ]
+      },
+      {
+        "heading": "Conservation",
+        "body": [
+          "Le contenu privé restant sur l’appareil n’est pas stocké dans un cloud du développeur. La correspondance d’assistance est conservée seulement le temps raisonnablement nécessaire. Les fournisseurs de publicité, boutiques et hébergement appliquent leurs propres durées publiées."
+        ]
+      },
+      {
+        "heading": "Droits de l’article 11",
+        "body": [
+          "Sous réserve des conditions de la loi n° 6698, vous pouvez exercer les droits prévus à l’article 11, notamment savoir si vos données sont traitées, demander des informations, connaître les finalités et destinataires, demander rectification ou effacement lorsque possible, demander notification aux tiers concernés, vous opposer à certains résultats uniquement automatisés et demander réparation en cas de traitement illicite."
+        ]
+      },
+      {
+        "heading": "Comment exercer vos droits",
+        "body": [
+          "Vous pouvez d’abord contacter Serhat DAĞ à serhatdagapps@gmail.com. Des informations supplémentaires ne seront demandées que si raisonnablement nécessaires pour vérifier l’identité et protéger les données. Les demandes sont traitées dans les délais légaux applicables, en principe au plus tard sous 30 jours dans le cadre de la procédure KVKK."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Conditions d’utilisation",
+    "intro": "Ces Conditions régissent l’utilisation d’Ovelyra et d’Ovelyra Plus. En utilisant l’application, vous acceptez de l’utiliser légalement et sous réserve des règles obligatoires et conditions de boutique applicables à votre appareil et votre pays.",
+    "sections": [
+      {
+        "heading": "Développeur, contact et date",
+        "body": [
+          "Développeur : Serhat DAĞ. Assistance : serhatdagapps@gmail.com. Entrée en vigueur/dernière mise à jour : 24 août 2026."
+        ]
+      },
+      {
+        "heading": "Service de journal personnel",
+        "body": [
+          "Ovelyra est un outil de journal personnel, suivi de l’humeur et réflexion. Ce n’est pas un service médical, psychologique, juridique, financier ou d’urgence et il ne remplace pas un professionnel."
+        ]
+      },
+      {
+        "heading": "Votre contenu et propriété intellectuelle",
+        "body": [
+          "Vous conservez vos droits sur vos entrées, photos, notes vocales et autres contenus. Vous êtes responsable du contenu que vous stockez/partagez et de l’utilisation légale de l’application.",
+          "Le logiciel, l’interface, le logo, la marque et les contenus originaux d’Ovelyra sont protégés. Aucune autorisation de copie, revente, rétro-ingénierie ou détournement n’est accordée sauf disposition impérative."
+        ]
+      },
+      {
+        "heading": "Stockage local, sécurité et sauvegardes",
+        "body": [
+          "Ovelyra est offline-first et ne fournit pas de compte cloud de journal exploité par le développeur. Perte du téléphone, réinitialisation, suppression de l’application ou panne de stockage peuvent rendre les données locales indisponibles. Vous devez conserver vos sauvegardes chiffrées.",
+          "Ovelyra ne connaît pas votre mot de passe de sauvegarde et ne peut pas le récupérer."
+        ]
+      },
+      {
+        "heading": "Version Free et expérience Plus 12 heures",
+        "body": [
+          "La version Free peut afficher de la publicité sur certaines pages secondaires. Si une annonce récompensée éligible est disponible et vue jusqu’au bout, Ovelyra peut accorder une expérience Plus temporaire de 12 heures. La disponibilité n’est pas garantie.",
+          "Cette expérience n’augmente pas la limite Free de trois capsules. À son expiration, l’accès temporaire Plus prend fin automatiquement."
+        ]
+      },
+      {
+        "heading": "Abonnements payants Ovelyra Plus",
+        "body": [
+          "Ovelyra Plus mensuel et annuel sont des abonnements à renouvellement automatique achetés via Apple App Store ou Google Play. Avant achat, le nom, la durée et le prix actuel doivent être affichés. Sauf annulation, ils peuvent se renouveler automatiquement selon les conditions de la boutique.",
+          "Annulation, renouvellement, éventuels délais de grâce, restauration des achats et paiement sont gérés par la boutique et le droit applicable. L’annulation arrête normalement les renouvellements futurs ; l’accès payé continue jusqu’à l’expiration du droit indiqué par la boutique."
+        ]
+      },
+      {
+        "heading": "Après expiration de Plus payant",
+        "body": [
+          "La fin de l’abonnement ne supprime pas le contenu créé pendant Plus. Si vous avez créé 10 capsules, elles restent toutes. En Free, vous pouvez voir/ouvrir/supprimer les capsules existantes mais ne pouvez en créer une nouvelle tant que le total n’est pas inférieur à trois.",
+          "D’autres fonctions Plus de création, export PDF, thèmes, avatars ou analyses avancées peuvent devenir indisponibles ou revenir au mode Free jusqu’à réactivation."
+        ]
+      },
+      {
+        "heading": "Remboursements et gestion",
+        "body": [
+          "Apple ou Google traite les paiements. La gestion et les demandes de remboursement passent par la boutique concernée, selon ses règles et le droit impératif de la consommation. Ovelyra ne reçoit pas directement les données complètes de votre carte."
+        ]
+      },
+      {
+        "heading": "Disponibilité et modifications",
+        "body": [
+          "Ovelyra peut mettre à jour, améliorer, retirer ou remplacer des fonctions pour sécurité, compatibilité, conformité et qualité. Des interruptions temporaires peuvent survenir. La date sera mise à jour en cas de modification importante."
+        ]
+      },
+      {
+        "heading": "Droit applicable et droits impératifs du consommateur",
+        "body": [
+          "Ces Conditions sont régies par les lois de la République de Türkiye, sans limiter les droits impératifs de protection du consommateur ou de juridiction applicables dans votre pays de résidence."
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "Questions sur ces Conditions ou assistance Ovelyra : serhatdagapps@gmail.com."
+        ]
+      }
+    ]
+  },
+  "support": {
+    "title": "Assistance",
+    "intro": "Besoin d’aide avec Ovelyra ? Contactez-nous par e-mail.",
+    "sections": [
+      {
+        "heading": "Contact",
+        "body": [
+          "Développeur : Serhat DAĞ. E-mail : serhatdagapps@gmail.com.",
+          "Pour un problème technique, indiquez le modèle de l’appareil, la version Android/iOS, la version d’Ovelyra et une courte description."
+        ]
+      },
+      {
+        "heading": "Protégez votre contenu privé",
+        "body": [
+          "N’envoyez pas de texte de journal, photos privées, notes vocales, mots de passe de sauvegarde ou autres informations sensibles sauf nécessité réelle. Un contenu sensible inutile peut être supprimé plutôt que conservé."
+        ]
+      },
+      {
+        "heading": "Données locales et récupération",
+        "body": [
+          "Ovelyra n’exploite pas de compte cloud de journal. L’assistance ne peut normalement ni voir ni récupérer vos entrées, photos/audio locaux ou un mot de passe de sauvegarde oublié. Utilisez votre propre sauvegarde chiffrée pour la portabilité ou la récupération."
+        ]
+      },
+      {
+        "heading": "Abonnements, confidentialité et demandes KVKK",
+        "body": [
+          "Facturation, annulation et remboursements sont gérés via Apple App Store ou Google Play. Les demandes confidentialité/KVKK peuvent aussi être envoyées à serhatdagapps@gmail.com ; une vérification raisonnable de l’identité peut être demandée si nécessaire pour protéger les données."
+        ]
+      }
+    ]
+  }
+}

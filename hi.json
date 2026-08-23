@@ -1,0 +1,249 @@
+{
+  "privacy": {
+    "title": "गोपनीयता नीति",
+    "intro": "Ovelyra गोपनीयता-केंद्रित और offline-first जर्नल ऐप है। आपकी अधिकांश निजी जर्नल सामग्री आपके डिवाइस पर एन्क्रिप्टेड स्थानीय स्टोरेज में रहती है। Ovelyra डेवलपर द्वारा संचालित अकाउंट सिस्टम या क्लाउड जर्नल डेटाबेस नहीं चलाता।",
+    "sections": [
+      {
+        "heading": "अंतिम अपडेट और डेटा नियंत्रक",
+        "body": [
+          "अंतिम अपडेट: 24 अगस्त 2026। Ovelyra के नियंत्रण में होने वाली प्रोसेसिंग के डेवलपर और डेटा नियंत्रक: Serhat DAĞ। गोपनीयता और सहायता संपर्क: serhatdagapps@gmail.com।"
+        ]
+      },
+      {
+        "heading": "आपके डिवाइस पर रहने वाली जानकारी",
+        "body": [
+          "आपका नाम, भाषा, अवतार, थीम, सेटिंग्स, जर्नल प्रविष्टियाँ, मूड, सपने, फ़ोटो, वॉइस नोट्स, दिन के प्रश्न के उत्तर, मेमोरी कैप्सूल और नोटिफिकेशन सेटिंग्स स्थानीय रूप से डिवाइस पर रहती हैं। निजी जर्नल सामग्री Ovelyra सर्वर पर अपलोड नहीं की जाती।",
+          "Ovelyra ऐप लॉक के लिए डिवाइस की सुरक्षा सुविधाओं का उपयोग करता है। Ovelyra आपका फिंगरप्रिंट, Face ID इमेज या बायोमेट्रिक टेम्पलेट प्राप्त या संग्रहीत नहीं करता; ऑपरेटिंग सिस्टम केवल प्रमाणीकरण का परिणाम लौटाता है।",
+          "हटाई गई वस्तुएँ पहले स्थायी रूप से न हटाए जाने पर स्थानीय Trash में 30 दिनों तक रह सकती हैं।"
+        ]
+      },
+      {
+        "heading": "डिवाइस से बाहर जा सकने वाली जानकारी",
+        "body": [
+          "Google Mobile Ads और उसके consent tools विज्ञापन दिखाने, मापने और सुरक्षित रखने के लिए आवश्यक सीमित तकनीकी और विज्ञापन डेटा प्रोसेस कर सकते हैं। Apple App Store या Google Play खरीद को प्रोसेस करते हैं और Ovelyra को product, transaction और subscription/entitlement status दे सकते हैं। Ovelyra आपके कार्ड की पूरी जानकारी प्राप्त नहीं करता।",
+          "यदि आप सहायता से संपर्क करते हैं, तो आपका ईमेल, संदेश और आपके द्वारा स्वेच्छा से भेजी गई डिवाइस/ऐप जानकारी केवल जवाब देने, समस्या हल करने, सेवा की सुरक्षा या कानूनी दायित्वों के लिए प्रोसेस की जाती है। आवश्यकता न हो तो निजी जर्नल टेक्स्ट, बैकअप पासवर्ड या अन्य संवेदनशील सामग्री न भेजें।",
+          "यह कानूनी साइट GitHub Pages पर होस्ट है। GitHub अपनी नीतियों के अनुसार तकनीकी कनेक्शन डेटा प्रोसेस कर सकता है। साइट केवल चुनी गई भाषा को ब्राउज़र के local storage में रखती है। Ovelyra फिलहाल आपकी निजी जर्नल गतिविधि के लिए अलग analytics SDK का उपयोग नहीं करता।"
+        ]
+      },
+      {
+        "heading": "विज्ञापन और सहमति",
+        "body": [
+          "Free उपयोगकर्ता चुनिंदा secondary screens पर Google Mobile Ads देख सकते हैं और वैकल्पिक rewarded ad पूरा देखकर 12 घंटे का अस्थायी Ovelyra Plus अनुभव पा सकते हैं। प्लेटफ़ॉर्म, सेटिंग, consent और लागू कानून के अनुसार Google Mobile Ads IP address, IP से अनुमानित सामान्य location, उपलब्ध device/advertising identifiers, app/ad interactions, advertising data, diagnostics/performance और consent status प्रोसेस कर सकता है।",
+          "Ovelyra जर्नल टेक्स्ट, मूड इतिहास, सपने, फ़ोटो, वॉइस नोट्स, प्रश्न उत्तर या memory capsule content को जानबूझकर ad SDK को नहीं भेजता। जहाँ आवश्यक हो, Google consent tools का उपयोग किया जाता है और ऐप में उपलब्ध ad privacy choices को दोबारा प्रबंधित किया जा सकता है।"
+        ]
+      },
+      {
+        "heading": "सब्सक्रिप्शन और भुगतान",
+        "body": [
+          "Ovelyra Plus के मासिक और वार्षिक सब्सक्रिप्शन Apple App Store या Google Play से खरीदे जाते हैं। भुगतान, billing, renewal, cancellation और refund संबंधित store के नियमों के अनुसार होते हैं। Ovelyra केवल Plus unlock/restore के लिए आवश्यक सीमित purchase और entitlement information प्राप्त कर सकता है।"
+        ]
+      },
+      {
+        "heading": "अनुमतियाँ, widgets और sharing",
+        "body": [
+          "Notification permission reminders के लिए माँगी जाती है। Photo/camera केवल image जोड़ते समय और microphone केवल audio record करते समय माँगा जाता है। मुख्य सुविधाओं के लिए contacts या precise location आवश्यक नहीं है।",
+          "यदि home-screen widget सक्षम है, तो चुना हुआ mood आपके device home screen पर दिखाई दे सकता है। Backup, PDF, image या अन्य file को system share menu से भेजने पर चुनी गई destination service अपने नियमों के अनुसार file प्रोसेस करती है।"
+        ]
+      },
+      {
+        "heading": "रिटेंशन, deletion और सुरक्षा",
+        "body": [
+          "स्थानीय सामग्री तब तक डिवाइस पर रहती है जब तक आप उसे हटाते, ऐप reset करते, local data हटाने वाली uninstall करते या data replace/restore करते हैं। Encrypted .ovelyra backup केवल आपके अनुरोध पर बनता है; password भूलने पर Ovelyra उसे recover नहीं कर सकता।",
+          "Support messages केवल जवाब देने, troubleshooting, अधिकारों की रक्षा या कानूनी दायित्वों के लिए उचित रूप से आवश्यक अवधि तक रखे जाते हैं और बाद में delete/minimize किए जाते हैं। Third-party providers अपनी retention policies लागू करते हैं।",
+          "Ovelyra local encryption और platform security features का उपयोग करता है, लेकिन किसी storage या transmission method की पूर्ण सुरक्षा की गारंटी नहीं दी जा सकती।"
+        ]
+      },
+      {
+        "heading": "अंतरराष्ट्रीय प्रोसेसिंग",
+        "body": [
+          "Google, Apple और GitHub global infrastructure चलाते हैं। इन सेवाओं द्वारा प्रोसेस किया गया डेटा लागू कानून, उनकी प्रकाशित privacy terms और relevant transfer safeguards के अनुसार दूसरे देशों में प्रोसेस हो सकता है।"
+        ]
+      },
+      {
+        "heading": "आपकी choices और अधिकार",
+        "body": [
+          "आप ऐप में local Ovelyra data manage/delete कर सकते हैं, notifications बदल सकते हैं, उपलब्ध ad privacy choices manage कर सकते हैं और paid subscription store से manage कर सकते हैं। Privacy, data protection या support: serhatdagapps@gmail.com।"
+        ]
+      },
+      {
+        "heading": "नीति में बदलाव",
+        "body": [
+          "Features, integrated services या legal requirements बदलने पर यह policy update हो सकती है। Material change प्रकाशित होने पर इस पेज की तारीख update की जाएगी।"
+        ]
+      }
+    ]
+  },
+  "kvkk": {
+    "title": "KVKK सूचना नोटिस",
+    "intro": "यह Ovelyra के लिए तैयार तुर्की KVKK नोटिस का सूचना-आधारित अनुवाद है। तुर्की डेटा संरक्षण कानून के तहत interpretation के लिए तुर्की भाषा वाला पाठ प्राथमिक है।",
+    "sections": [
+      {
+        "heading": "डेटा नियंत्रक",
+        "body": [
+          "डेटा नियंत्रक: Serhat DAĞ। संपर्क: serhatdagapps@gmail.com। अंतिम अपडेट: 24 अगस्त 2026।"
+        ]
+      },
+      {
+        "heading": "डिवाइस की स्थानीय सामग्री जिसे डेवलपर प्राप्त नहीं करता",
+        "body": [
+          "जर्नल, मूड, सपने, फ़ोटो, वॉइस नोट्स, उत्तर और memory capsules डिवाइस पर रहने के लिए बनाए गए हैं। इन्हें developer-operated Ovelyra server पर नहीं भेजा जाता और सामान्य उपयोग में Serhat DAĞ इन्हें प्राप्त नहीं करते।"
+        ]
+      },
+      {
+        "heading": "प्रोसेस हो सकने वाले डेटा की श्रेणियाँ",
+        "body": [
+          "Support: ईमेल पता, message content, स्वेच्छा से दी गई device/app information और correspondence records।",
+          "Advertising/consent: Google Mobile Ads और consent services सीमित technical identifiers, IP, IP से derived general location, उपलब्ध ad/app identifiers, interactions, diagnostics/performance और consent choices प्रोसेस कर सकते हैं।",
+          "Purchases: Apple App Store या Google Play product, transaction, subscription status और entitlement information प्रोसेस कर सकते हैं। Ovelyra पूरी card details प्राप्त नहीं करता।",
+          "Legal site: GitHub Pages technical request information प्रोसेस कर सकता है; चुनी गई भाषा browser में local रहती है।"
+        ]
+      },
+      {
+        "heading": "प्रोसेसिंग के उद्देश्य",
+        "body": [
+          "Support का जवाब देना, Ovelyra Plus उपलब्ध/restore करना, advertising और consent choices चलाना, fraud/abuse रोकना, security और service continuity बनाए रखना, legal obligations पूरा करना और legal/support site चलाना।"
+        ]
+      },
+      {
+        "heading": "Collection method और legal grounds",
+        "body": [
+          "Data support email, advertising/consent SDKs, store purchase interfaces और legal site के माध्यम से electronic और आंशिक रूप से automated तरीके से प्राप्त हो सकता है।",
+          "Activity के अनुसार processing तुर्की Law No. 6698 Article 5 की relevant conditions—contract necessity, legal obligation, right की establishment/exercise/protection, या fundamental rights को नुकसान न पहुँचाने वाला legitimate interest—पर आधारित हो सकती है। जहाँ ad personalization या अन्य optional activity के लिए कानून consent माँगता है, वहाँ appropriate consent mechanism से consent लिया जाता है।"
+        ]
+      },
+      {
+        "heading": "Recipients और transfers",
+        "body": [
+          "Feature के अनुसार limited data advertising/consent के लिए Google, billing/entitlement के लिए Apple या Google, legal website hosting के लिए GitHub, और user द्वारा explicitly share/export करने पर चुनी गई destination service द्वारा प्रोसेस हो सकता है। Private journal content जानबूझकर ad providers को transfer नहीं किया जाता।",
+          "Global providers applicable international transfer rules, safeguards और service terms के अनुसार Türkiye के बाहर data प्रोसेस कर सकते हैं।"
+        ]
+      },
+      {
+        "heading": "Retention",
+        "body": [
+          "Device-only private content developer cloud में store नहीं होता। Support correspondence केवल उचित रूप से आवश्यक अवधि तक रखा जाता है। Advertising, store और hosting providers अपने published retention periods लागू करते हैं।"
+        ]
+      },
+      {
+        "heading": "Article 11 के अधिकार",
+        "body": [
+          "Law No. 6698 की conditions के अधीन, आप Article 11 के rights exercise कर सकते हैं, जैसे processing के बारे में जानना, information माँगना, purposes और recipients जानना, correction/deletion माँगना, applicable होने पर third parties को notification, कुछ solely automated adverse results पर objection और unlawful processing से damage होने पर compensation।"
+        ]
+      },
+      {
+        "heading": "कैसे आवेदन करें",
+        "body": [
+          "आप पहले Serhat DAĞ से serhatdagapps@gmail.com पर संपर्क कर सकते हैं। Identity verification और data protection के लिए reasonable necessity होने पर ही अतिरिक्त information माँगी जाएगी। Requests applicable legal periods में और KVKK procedure के अनुसार सामान्यतः अधिकतम 30 दिनों में handle किए जाते हैं।"
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "उपयोग की शर्तें",
+    "intro": "ये Terms Ovelyra और Ovelyra Plus के उपयोग को नियंत्रित करती हैं। ऐप का उपयोग करके आप अपने device और country पर लागू mandatory rules और store terms के अधीन वैध उपयोग से सहमत होते हैं।",
+    "sections": [
+      {
+        "heading": "डेवलपर, संपर्क और तारीख",
+        "body": [
+          "डेवलपर: Serhat DAĞ। Support: serhatdagapps@gmail.com। प्रभावी/अंतिम अपडेट: 24 अगस्त 2026।"
+        ]
+      },
+      {
+        "heading": "Personal journaling service",
+        "body": [
+          "Ovelyra personal journal, mood tracking और reflection tool है। यह medical, psychological, legal, financial या emergency service नहीं है और professional advice या emergency help का विकल्प नहीं है।"
+        ]
+      },
+      {
+        "heading": "आपका content और Ovelyra intellectual property",
+        "body": [
+          "आपके बनाए journal, photos, voice notes और अन्य content पर आपके अधिकार बने रहते हैं। Stored/shared content और lawful use के लिए आप जिम्मेदार हैं।",
+          "Ovelyra software, interface, logo, brand और original materials intellectual-property rights से protected हैं। Mandatory law expressly अनुमति न दे तो copy, resale, reverse engineering या misuse की अनुमति नहीं है।"
+        ]
+      },
+      {
+        "heading": "Local storage, security और backups",
+        "body": [
+          "Ovelyra offline-first है और developer-operated cloud journal account नहीं देता। Device loss, reset, app deletion या storage failure local data unavailable कर सकता है। अपने encrypted backups सुरक्षित रखने की जिम्मेदारी आपकी है।",
+          "Backup password Ovelyra को ज्ञात नहीं होता और भूलने पर recover नहीं किया जा सकता।"
+        ]
+      },
+      {
+        "heading": "Free version और 12-hour Plus experience",
+        "body": [
+          "Free version चुनिंदा secondary screens पर ads दिखा सकता है। Eligible rewarded ad उपलब्ध हो और आप उसे पूरा देखें तो Ovelyra temporary 12-hour Plus experience दे सकता है। Ad availability की गारंटी नहीं है।",
+          "Temporary experience Free के तीन memory capsules limit को नहीं बढ़ाता। 12 घंटे पूरे होने पर temporary Plus access स्वतः समाप्त हो जाता है।"
+        ]
+      },
+      {
+        "heading": "Paid Ovelyra Plus subscriptions",
+        "body": [
+          "Monthly और yearly Ovelyra Plus Apple App Store या Google Play से खरीदे जाने वाले auto-renewable subscriptions हैं। Purchase से पहले subscription title, duration और current price दिखना चाहिए। Cancel न करने पर store terms के अनुसार auto-renew हो सकता है।",
+          "Cancellation, renewal timing, applicable billing grace period, restore purchases और payment handling संबंधित store और applicable law के अधीन हैं। Cancellation सामान्यतः future renewal रोकता है; paid access store-reported entitlement expiry तक चलता है।"
+        ]
+      },
+      {
+        "heading": "Paid Plus समाप्त होने पर",
+        "body": [
+          "Subscription समाप्त होने से Plus के दौरान बनाया content delete नहीं होता। यदि आपने 10 memory capsules बनाए, तो सभी 10 बने रहते हैं। Free में existing capsules देख/खोल/delete कर सकते हैं, लेकिन total तीन से कम होने तक नया capsule नहीं बना सकते।",
+          "PDF export, Plus themes, avatars और advanced analytics जैसी अन्य Plus-only features Plus फिर active होने तक unavailable या Free behavior पर लौट सकती हैं।"
+        ]
+      },
+      {
+        "heading": "Refunds और subscription management",
+        "body": [
+          "Payments Apple या Google process करते हैं। Subscription management और refund requests relevant store rules और mandatory consumer law के अनुसार store के माध्यम से होते हैं। Ovelyra पूरी card information सीधे प्राप्त नहीं करता।"
+        ]
+      },
+      {
+        "heading": "Availability और changes",
+        "body": [
+          "Ovelyra security, compatibility, legal compliance और quality के लिए features update, improve, remove या replace कर सकता है। Temporary interruptions हो सकती हैं। Material Terms change होने पर date update होगी।"
+        ]
+      },
+      {
+        "heading": "Applicable law और mandatory consumer rights",
+        "body": [
+          "ये Terms Republic of Türkiye के कानून से governed हैं, लेकिन आपके residence country में लागू mandatory consumer protection या jurisdiction rights सीमित नहीं होते।"
+        ]
+      },
+      {
+        "heading": "संपर्क",
+        "body": [
+          "Terms या Ovelyra support के प्रश्न: serhatdagapps@gmail.com।"
+        ]
+      }
+    ]
+  },
+  "support": {
+    "title": "सहायता",
+    "intro": "Ovelyra के लिए मदद चाहिए? ईमेल से संपर्क करें।",
+    "sections": [
+      {
+        "heading": "संपर्क",
+        "body": [
+          "डेवलपर: Serhat DAĞ। ईमेल: serhatdagapps@gmail.com।",
+          "Technical issue report करते समय device model, Android/iOS version, Ovelyra version और short description दें।"
+        ]
+      },
+      {
+        "heading": "अपनी निजी सामग्री की सुरक्षा करें",
+        "body": [
+          "वास्तव में आवश्यक न हो तो journal text, private photos, voice notes, backup passwords या अन्य sensitive information न भेजें। Unnecessary sensitive content मिलने पर उसे retain करने के बजाय delete किया जा सकता है।"
+        ]
+      },
+      {
+        "heading": "Local data और recovery",
+        "body": [
+          "Ovelyra cloud journal account operate नहीं करता। Support सामान्यतः journal entries, local photos/audio या भूला हुआ encrypted-backup password देख या recover नहीं कर सकता। Portability या recovery के लिए अपना encrypted backup उपयोग करें।"
+        ]
+      },
+      {
+        "heading": "Subscriptions, privacy और KVKK requests",
+        "body": [
+          "Billing, cancellation और refunds Apple App Store या Google Play से manage होते हैं। Privacy या KVKK requests serhatdagapps@gmail.com पर भी भेजी जा सकती हैं; data protection के लिए आवश्यक होने पर reasonable identity verification माँगी जा सकती है।"
+        ]
+      }
+    ]
+  }
+}
