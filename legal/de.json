@@ -1,12 +1,12 @@
 {
   "privacy": {
     "title": "Datenschutzerklärung",
-    "intro": "Ovelyra ist als datenschutzorientiertes, offline-first Tagebuch konzipiert. Der größte Teil deiner persönlichen Tagebuchinhalte wird verschlüsselt lokal auf deinem Gerät gespeichert. Ovelyra betreibt kein vom Entwickler kontrolliertes Benutzerkonto- oder Cloud-Tagebuchsystem.",
+    "intro": "Ovelyra ist als datenschutzorientiertes, offline-first Tagebuch konzipiert. Deine privaten Inhalte—Tagebucheinträge, Stimmungen, Träume, Fotos, Sprachnotizen, Antworten auf die Tagesfrage und Zeitkapseln—werden verschlüsselt lokal auf deinem Gerät gespeichert. Ovelyra betreibt kein vom Entwickler kontrolliertes Benutzerkonto- oder Cloud-Tagebuchsystem.",
     "sections": [
       {
         "heading": "Letzte Aktualisierung und Verantwortlicher",
         "body": [
-          "Letzte Aktualisierung: 11. September 2026. Entwickler und Verantwortlicher für Verarbeitungen unter der Kontrolle von Ovelyra: Serhat DAĞ. Datenschutz und Support: serhatdagapps@gmail.com."
+          "Letzte Aktualisierung: 12. September 2026. Entwickler und Verantwortlicher für Verarbeitungen unter der Kontrolle von Ovelyra: Serhat DAĞ. Datenschutz und Support: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -29,7 +29,7 @@
         "heading": "Werbung und Einwilligung",
         "body": [
           "Free-Nutzer können auf ausgewählten Unterseiten Google Mobile Ads sehen und optional eine Rewarded-Anzeige für ein vorübergehendes 12-stündiges Ovelyra-Plus-Erlebnis ansehen. Abhängig von Plattform, Konfiguration, Einwilligung und Recht kann Google Mobile Ads Daten wie IP-Adresse, daraus abgeleiteten ungefähren Standort, Geräte-/Werbe-IDs soweit verfügbar, App-/Werbeinteraktionen, Werbedaten, Diagnose-/Leistungsdaten und Einwilligungsstatus verarbeiten.",
-          "Ovelyra übermittelt Tagebuchtexte, Stimmungsverlauf, Träume, Fotos, Sprachnotizen, Prompt-Antworten oder Inhalte von Zeitkapseln nicht absichtlich an das Werbe-SDK. Für berechtigte Nutzer im EWR, Vereinigten Königreich und in der Schweiz verwendet Ovelyra, soweit erforderlich, Google UMP / die Einwilligungsnachricht zu europäischen Vorschriften, bevor Werbung angefordert wird. In den Einstellungen können Google-Werbedatenschutzoptionen erneut geöffnet werden, wenn Google sie als erforderlich und verfügbar meldet."
+          "Ovelyra übermittelt Tagebuchtexte, Stimmungsverlauf, Träume, Fotos, Sprachnotizen, Antworten auf Tagesfragen oder Inhalte von Zeitkapseln nicht absichtlich an das Werbe-SDK. Für berechtigte Nutzer im EWR, Vereinigten Königreich und in der Schweiz verwendet Ovelyra, soweit erforderlich, Google UMP / die Einwilligungsnachricht zu europäischen Vorschriften, bevor Werbung angefordert wird. Google-Werbedatenschutzoptionen werden bereitgestellt, wenn Google sie als erforderlich und verfügbar meldet."
         ]
       },
       {
@@ -80,7 +80,7 @@
       {
         "heading": "Verantwortlicher",
         "body": [
-          "Letzte Aktualisierung: 11. September 2026. Entwickler und Verantwortlicher für Verarbeitungen unter der Kontrolle von Ovelyra: Serhat DAĞ. Datenschutz und Support: serhatdagapps@gmail.com."
+          "Letzte Aktualisierung: 12. September 2026. Entwickler und Verantwortlicher für Verarbeitungen unter der Kontrolle von Ovelyra: Serhat DAĞ. Datenschutz und Support: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -140,12 +140,12 @@
   },
   "terms": {
     "title": "Nutzungsbedingungen",
-    "intro": "Diese Bedingungen regeln die Nutzung von Ovelyra und Ovelyra Plus. Mit der Nutzung verpflichtest du dich zu rechtmäßiger Verwendung und zu den zwingenden Regeln und Store-Bedingungen deines Geräts und Landes.",
+    "intro": "Diese Bedingungen regeln die Nutzung von Ovelyra und Ovelyra Plus. Mit der Nutzung von Ovelyra verpflichtest du dich zu rechtmäßiger Verwendung sowie zur Einhaltung zwingender Vorschriften und der Apple-App-Store-Bedingungen, die in deinem Land oder deiner Region gelten.",
     "sections": [
       {
         "heading": "Entwickler, Kontakt und Datum",
         "body": [
-          "Entwickler: Serhat DAĞ. Support: serhatdagapps@gmail.com. Gültig/zuletzt aktualisiert: 11. September 2026."
+          "Entwickler: Serhat DAĞ. Support: serhatdagapps@gmail.com. Gültig/zuletzt aktualisiert: 12. September 2026."
         ]
       },
       {
@@ -165,7 +165,7 @@
         "heading": "Lokale Speicherung, Sicherheit und Backups",
         "body": [
           "Ovelyra ist offline-first und bietet kein vom Entwickler betriebenes Cloud-Tagebuchkonto. Geräteverlust, System-Reset, Löschen der App oder Speicherfehler können lokale Daten unzugänglich machen. Du bist dafür verantwortlich, von dir erstellte verschlüsselte Backups an einem von dir kontrollierten Ort aufzubewahren.",
-          "Ein passwortverschlüsseltes .ovelyra-Backup enthält das vollständige Ovelyra-Benutzerarchiv zum Sicherungszeitpunkt, einschließlich mit Plus erstellter Daten, die in Free aktuell gesperrt sein können. Ovelyra kennt oder speichert das Backup-Passwort nicht; der Entwickler kann es nicht wiederherstellen. Bezahlte/Rewarded-Plus-Berechtigungen, Abo-Status und Belege werden nicht aus dem Backup wiederhergestellt. Absichtlich gespeicherte oder geteilte PDFs sind offene, unverschlüsselte Exporte und müssen entsprechend geschützt werden."
+          "Ein passwortverschlüsseltes .ovelyra-Backup enthält das vollständige Ovelyra-Benutzerarchiv zum Sicherungszeitpunkt, einschließlich mit Plus erstellter Daten, die in Free aktuell gesperrt sein können. Ovelyra kennt oder speichert das Backup-Passwort nicht; der Entwickler kann es nicht wiederherstellen. Bezahlte/Rewarded-Plus-Berechtigungen, Abo-Status und Belege werden nicht aus dem Backup wiederhergestellt. Absichtlich gespeicherte oder geteilte PDFs sind offene, unverschlüsselte Exporte und müssen entsprechend geschützt werden. Der aktuelle Free-/Plus-Zugriffsstatus filtert niemals Benutzerdaten aus dem Backup. Nach der Wiederherstellung wird der Zugriff anhand der aktuellen Apple-Berechtigung auf diesem Gerät neu berechnet: gesperrte Datensätze bleiben im Free-Modus erhalten und werden wieder zugänglich, sobald echtes bezahltes Plus aktiv ist."
         ]
       },
       {
@@ -235,7 +235,7 @@
       {
         "heading": "Lokale Daten und Wiederherstellung",
         "body": [
-          "Ovelyra verwendet kein vom Entwickler betriebenes Cloud-Tagebuchkonto. Der Support kann deine Tagebücher, lokalen Fotos/Audios oder ein vergessenes Backup-Passwort normalerweise weder sehen noch wiederherstellen. Dein passwortverschlüsseltes .ovelyra-Backup kann das vollständige archivierte Benutzerarchiv auf ein anderes Gerät übertragen, einschließlich mit Plus erstellter Inhalte, die in Free gesperrt sein können; bezahlte oder Rewarded-Plus-Berechtigungen selbst werden niemals aus dem Backup wiederhergestellt."
+          "Ovelyra verwendet kein vom Entwickler betriebenes Cloud-Tagebuchkonto. Deshalb kann der Support über Ovelyra-Systeme nicht auf deine Tagebücher, lokalen Fotos/Audios oder ein vergessenes Backup-Passwort zugreifen. Wenn du privaten Inhalt bewusst an eine Support-E-Mail anhängst, wird dieser Inhalt als Teil der E-Mail empfangen. Dein passwortverschlüsseltes .ovelyra-Backup überträgt das vollständige archivierte Benutzerarchiv auf ein anderes Gerät, einschließlich mit Plus erstellter Inhalte, die auf einem wiederhergestellten Free-Gerät gesperrt bleiben; bezahlte oder Rewarded-Plus-Berechtigungen selbst werden niemals aus dem Backup wiederhergestellt."
         ]
       },
       {

@@ -1,12 +1,12 @@
 {
   "privacy": {
     "title": "Política de privacidad",
-    "intro": "Ovelyra es un diario centrado en la privacidad y diseñado para funcionar principalmente sin conexión. La mayor parte del contenido personal del diario se guarda en almacenamiento local cifrado en tu dispositivo. Ovelyra no opera un sistema de cuentas ni una base de datos de diarios en la nube controlada por el desarrollador.",
+    "intro": "Ovelyra es un diario centrado en la privacidad y diseñado para funcionar principalmente sin conexión. Tu contenido privado del diario —entradas, estados de ánimo, sueños, fotos, notas de voz, respuestas a la pregunta del día y cápsulas— se guarda en almacenamiento local cifrado en tu dispositivo. Ovelyra no opera un sistema de cuentas ni una base de datos de diarios en la nube controlada por el desarrollador.",
     "sections": [
       {
         "heading": "Última actualización y responsable del tratamiento",
         "body": [
-          "Última actualización: 11 de septiembre de 2026. Desarrollador y responsable del tratamiento para las operaciones bajo control de Ovelyra: Serhat DAĞ. Contacto de privacidad y soporte: serhatdagapps@gmail.com."
+          "Última actualización: 12 de septiembre de 2026. Desarrollador y responsable del tratamiento para las operaciones bajo control de Ovelyra: Serhat DAĞ. Contacto de privacidad y soporte: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -29,7 +29,7 @@
         "heading": "Publicidad y consentimiento",
         "body": [
           "Los usuarios Free pueden ver Google Mobile Ads en determinadas pantallas secundarias y pueden elegir ver un anuncio recompensado para obtener una experiencia temporal de Ovelyra Plus de 12 horas. Según la plataforma, configuración, consentimiento y legislación aplicable, Google Mobile Ads puede tratar datos como la dirección IP, una ubicación general estimada a partir de la IP, identificadores del dispositivo o publicitarios cuando estén disponibles, interacciones con la aplicación o anuncios, datos publicitarios, datos de diagnóstico/rendimiento y el estado del consentimiento.",
-          "Ovelyra no envía intencionadamente al SDK publicitario el texto de tu diario, historial de ánimo, sueños, fotos, notas de voz, respuestas ni contenido de cápsulas. Para usuarios elegibles del EEE, Reino Unido y Suiza, Ovelyra usa Google UMP / el mensaje de consentimiento de regulaciones europeas cuando es necesario antes de solicitar anuncios. En Ajustes se pueden volver a abrir las opciones de privacidad publicitaria de Google cuando Google indica que son necesarias y están disponibles."
+          "Ovelyra no envía intencionadamente al SDK publicitario el texto de tu diario, historial de ánimo, sueños, fotos, notas de voz, respuestas ni contenido de cápsulas. Para usuarios elegibles del EEE, Reino Unido y Suiza, Ovelyra usa Google UMP / el mensaje de consentimiento de regulaciones europeas cuando es necesario antes de solicitar anuncios. Las opciones de privacidad publicitaria de Google se ponen a disposición cuando Google indica que son necesarias y están disponibles."
         ]
       },
       {
@@ -80,7 +80,7 @@
       {
         "heading": "Responsable del tratamiento",
         "body": [
-          "Última actualización: 11 de septiembre de 2026. Desarrollador y responsable del tratamiento para las operaciones bajo control de Ovelyra: Serhat DAĞ. Contacto de privacidad y soporte: serhatdagapps@gmail.com."
+          "Última actualización: 12 de septiembre de 2026. Desarrollador y responsable del tratamiento para las operaciones bajo control de Ovelyra: Serhat DAĞ. Contacto de privacidad y soporte: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -140,12 +140,12 @@
   },
   "terms": {
     "title": "Condiciones de uso",
-    "intro": "Estas Condiciones regulan el uso de Ovelyra y Ovelyra Plus. Al utilizar la aplicación, aceptas usarla legalmente y conforme a las normas obligatorias y condiciones de la tienda aplicables a tu dispositivo y país.",
+    "intro": "Estas Condiciones regulan el uso de Ovelyra y Ovelyra Plus. Al utilizar Ovelyra, aceptas usar la aplicación legalmente y conforme a las normas obligatorias y a las condiciones de Apple App Store aplicables en tu país o región.",
     "sections": [
       {
         "heading": "Desarrollador, contacto y fecha",
         "body": [
-          "Desarrollador: Serhat DAĞ. Soporte: serhatdagapps@gmail.com. Vigencia/última actualización: 11 de septiembre de 2026."
+          "Desarrollador: Serhat DAĞ. Soporte: serhatdagapps@gmail.com. Vigencia/última actualización: 12 de septiembre de 2026."
         ]
       },
       {
@@ -165,7 +165,7 @@
         "heading": "Almacenamiento local, seguridad y copias",
         "body": [
           "Ovelyra funciona con prioridad local y no ofrece una cuenta de diario en la nube operada por el desarrollador. La pérdida del dispositivo, un restablecimiento del sistema, la eliminación de la app o un fallo de almacenamiento pueden hacer inaccesibles los datos locales. Eres responsable de guardar las copias cifradas que decidas crear en un lugar bajo tu control.",
-          "Una copia .ovelyra cifrada con contraseña contiene todo el archivo de usuario de Ovelyra en el momento de la copia, incluidos datos creados con Plus que puedan estar bloqueados en Free. Ovelyra no conoce ni guarda la contraseña y el desarrollador no puede recuperarla. El derecho Plus de pago/recompensa, el estado de suscripción y los recibos no se restauran desde la copia. Los PDF que guardes o compartas deliberadamente son exportados claros, no cifrados, y deben protegerse en consecuencia."
+          "Una copia .ovelyra cifrada con contraseña contiene todo el archivo de usuario de Ovelyra en el momento de la copia, incluidos datos creados con Plus que puedan estar bloqueados en Free. Ovelyra no conoce ni guarda la contraseña y el desarrollador no puede recuperarla. El derecho Plus de pago/recompensa, el estado de suscripción y los recibos no se restauran desde la copia. Los PDF que guardes o compartas deliberadamente son exportados claros, no cifrados, y deben protegerse en consecuencia. El estado Free/Plus actual nunca excluye registros del usuario de la copia. Después de restaurar, el acceso se vuelve a calcular según el derecho Apple vigente en ese dispositivo: los registros bloqueados siguen conservados en Free y vuelven a ser accesibles cuando se activa un Plus de pago real."
         ]
       },
       {
@@ -235,7 +235,7 @@
       {
         "heading": "Datos locales y recuperación",
         "body": [
-          "Ovelyra no usa una cuenta de diario en la nube operada por el desarrollador. Soporte normalmente no puede ver ni recuperar tus diarios, fotos/audio locales ni una contraseña de copia olvidada. Tu copia .ovelyra cifrada con contraseña puede trasladar todos los datos archivados a otro dispositivo, incluido contenido creado con Plus que puede quedar bloqueado en Free; el derecho Plus de pago o por recompensa nunca se restaura desde la copia."
+          "Ovelyra no usa una cuenta de diario en la nube operada por el desarrollador, por lo que soporte no puede acceder desde los sistemas de Ovelyra a tus diarios, fotos/audio locales ni a una contraseña de copia olvidada. Si adjuntas deliberadamente contenido privado a un correo de soporte, ese contenido se recibe como parte del correo. Tu copia .ovelyra cifrada con contraseña traslada todos los datos archivados a otro dispositivo, incluido el contenido creado con Plus que permanece bloqueado mientras el dispositivo restaurado está en Free; el derecho Plus de pago o por recompensa nunca se restaura desde la copia."
         ]
       },
       {

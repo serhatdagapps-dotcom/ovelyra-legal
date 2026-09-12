@@ -1,12 +1,12 @@
 {
   "privacy": {
     "title": "Privacy Policy",
-    "intro": "Ovelyra is a privacy-first, offline-first journal. Most personal journal content is stored in encrypted local storage on your device. Ovelyra does not operate a developer-controlled account system or cloud journal database.",
+    "intro": "Ovelyra is a privacy-first, offline-first journal. Your private journal content—journal entries, moods, dreams, photos, voice notes, daily-prompt answers and memory capsules—is stored in encrypted local storage on your device. Ovelyra does not operate a developer-controlled account system or cloud journal database.",
     "sections": [
       {
         "heading": "Last updated and data controller",
         "body": [
-          "Last updated: 11 September 2026. Developer and data controller for processing under Ovelyra’s control: Serhat DAĞ. Privacy and support contact: serhatdagapps@gmail.com."
+          "Last updated: 12 September 2026. Developer and data controller for processing under Ovelyra’s control: Serhat DAĞ. Privacy and support contact: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -29,7 +29,7 @@
         "heading": "Advertising and consent",
         "body": [
           "Free users may see Google Mobile Ads on selected secondary screens and may choose a rewarded ad for a temporary 12-hour Ovelyra Plus experience. Depending on platform, configuration, consent and applicable law, Google Mobile Ads may process information such as IP address, a general location estimate derived from IP, device or advertising identifiers where available, app/ad interactions, advertising data, diagnostics/performance data and consent state.",
-          "Ovelyra does not intentionally send your journal text, mood history, dreams, photos, voice notes, prompt answers or memory-capsule content to the advertising SDK. For eligible users in the EEA, United Kingdom and Switzerland, Ovelyra uses Google UMP / European regulations consent messaging where required before ads are requested. Settings provides Google advertising privacy options when Google reports that those options are required and available."
+          "Ovelyra does not intentionally send your journal text, mood history, dreams, photos, voice notes, prompt answers or memory-capsule content to the advertising SDK. For eligible users in the EEA, United Kingdom and Switzerland, Ovelyra uses Google UMP / European regulations consent messaging where required before ads are requested. Google advertising privacy options are made available when Google reports that those options are required and available."
         ]
       },
       {
@@ -80,7 +80,7 @@
       {
         "heading": "Data controller",
         "body": [
-          "Last updated: 11 September 2026. Developer and data controller for processing under Ovelyra’s control: Serhat DAĞ. Privacy and support contact: serhatdagapps@gmail.com."
+          "Last updated: 12 September 2026. Developer and data controller for processing under Ovelyra’s control: Serhat DAĞ. Privacy and support contact: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -140,12 +140,12 @@
   },
   "terms": {
     "title": "Terms of Use",
-    "intro": "These Terms govern the use of Ovelyra and Ovelyra Plus. By using Ovelyra, you agree to use the app lawfully and subject to the mandatory rules and store terms that apply to your device and country.",
+    "intro": "These Terms govern the use of Ovelyra and Ovelyra Plus. By using Ovelyra, you agree to use the app lawfully and subject to mandatory law and the Apple App Store terms that apply in your country or region.",
     "sections": [
       {
         "heading": "Developer, contact and effective date",
         "body": [
-          "Developer: Serhat DAĞ. Support: serhatdagapps@gmail.com. Effective/last updated: 11 September 2026."
+          "Developer: Serhat DAĞ. Support: serhatdagapps@gmail.com. Effective/last updated: 12 September 2026."
         ]
       },
       {
@@ -165,7 +165,7 @@
         "heading": "Local storage, security and backups",
         "body": [
           "Ovelyra is offline-first and does not provide a developer-operated cloud journal account. Device loss, operating-system reset, app deletion or storage failure can make local data unavailable. You are responsible for keeping any encrypted backups you choose to create somewhere you control.",
-          "A password-encrypted .ovelyra backup contains the complete Ovelyra user archive included at backup time, including Plus-created data that may currently be locked on Free. The backup password is not known or stored by Ovelyra and cannot be recovered by the developer. Paid/rewarded Plus entitlement, subscription state and receipts are not restored from the backup. PDFs you deliberately save or share are clear, unencrypted exports and should be protected accordingly."
+          "A password-encrypted .ovelyra backup contains the complete Ovelyra user archive included at backup time, including Plus-created data that may currently be locked on Free. The backup password is not known or stored by Ovelyra and cannot be recovered by the developer. Paid/rewarded Plus entitlement, subscription state and receipts are not restored from the backup. PDFs you deliberately save or share are clear, unencrypted exports and should be protected accordingly. Current Free/Plus access never filters user records out of the backup. After restore, access is recalculated from the current Apple entitlement on that device: locked records stay preserved while Free and become accessible again when genuine paid Plus is active."
         ]
       },
       {
@@ -235,7 +235,7 @@
       {
         "heading": "Local data and recovery",
         "body": [
-          "Ovelyra does not use a developer-operated cloud journal account. Support normally cannot view or recover your journals, local photos/audio or a forgotten backup password. Your password-encrypted .ovelyra backup can carry the full archived user data to another device, including Plus-created content that may be locked on Free; paid or rewarded Plus entitlement itself is never restored from the backup."
+          "Ovelyra does not use a developer-operated cloud journal account, so support cannot access your journals, local photos/audio or a forgotten backup password from Ovelyra systems. If you deliberately attach private content to a support email, that content is received as part of the email. Your password-encrypted .ovelyra backup carries the complete archived user data to another device, including Plus-created content that remains locked while the restored device is Free; paid or rewarded Plus entitlement itself is never restored from the backup."
         ]
       },
       {

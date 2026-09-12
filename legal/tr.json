@@ -1,12 +1,12 @@
 {
   "privacy": {
     "title": "Gizlilik Politikası",
-    "intro": "Ovelyra, gizlilik odaklı ve çevrimdışı-öncelikli bir günlük uygulamasıdır. Kişisel günlük içeriğinin büyük bölümü cihazındaki şifreli yerel depolamada tutulur. Ovelyra, geliştirici tarafından işletilen bir hesap sistemi veya bulut günlük veri tabanı kullanmaz.",
+    "intro": "Ovelyra, gizlilik odaklı ve çevrimdışı-öncelikli bir günlük uygulamasıdır. Günlüklerin, ruh halleri, rüyalar, fotoğraflar, sesli notlar, günün sorusu cevapları ve anı kapsülleri gibi özel içeriğin cihazındaki şifreli yerel depolamada tutulur. Ovelyra, geliştirici tarafından işletilen bir hesap sistemi veya bulut günlük veri tabanı kullanmaz.",
     "sections": [
       {
         "heading": "Son güncelleme ve veri sorumlusu",
         "body": [
-          "Son güncelleme: 11 Eylül 2026. Ovelyra’nın kontrolündeki işlemler için geliştirici ve veri sorumlusu: Serhat DAĞ. Gizlilik ve destek iletişimi: serhatdagapps@gmail.com."
+          "Son güncelleme: 12 Eylül 2026. Ovelyra’nın kontrolündeki işlemler için geliştirici ve veri sorumlusu: Serhat DAĞ. Gizlilik ve destek iletişimi: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -29,7 +29,7 @@
         "heading": "Reklamlar ve rıza",
         "body": [
           "Free kullanıcılar seçili ikinci seviye ekranlarda Google Mobile Ads reklamları görebilir ve geçici 12 saatlik Ovelyra Plus deneyimi için isteğe bağlı ödüllü reklam izleyebilir. Platforma, yapılandırmaya, rızaya ve yürürlükteki kurallara bağlı olarak Google Mobile Ads; IP adresi, IP’den türetilen yaklaşık/genel konum, mevcutsa cihaz veya reklam tanımlayıcıları, uygulama/reklam etkileşimleri, reklam verileri, tanılama/performans bilgileri ve rıza durumunu işleyebilir.",
-          "Ovelyra günlük metnini, ruh hali geçmişini, rüyaları, fotoğrafları, sesli notları, soru cevaplarını veya anı kapsülü içeriğini reklam SDK’sına bilerek göndermez. AEA, Birleşik Krallık ve İsviçre’de uygun kullanıcılar için, reklam istenmeden önce gerekli olduğunda Google UMP / European regulations rıza mesajı kullanılır. Google gerekli ve kullanılabilir olduğunu bildirdiğinde Ayarlar içinde reklam gizlilik seçeneklerine yeniden erişim sağlanır."
+          "Ovelyra günlük metnini, ruh hali geçmişini, rüyaları, fotoğrafları, sesli notları, soru cevaplarını veya anı kapsülü içeriğini reklam SDK’sına bilerek göndermez. AEA, Birleşik Krallık ve İsviçre’de uygun kullanıcılar için, reklam istenmeden önce gerekli olduğunda Google UMP / European regulations rıza mesajı kullanılır. Google reklam gizlilik seçeneklerinin gerekli ve kullanılabilir olduğunu bildirdiğinde bu seçenekler kullanıcıya sunulur."
         ]
       },
       {
@@ -80,7 +80,7 @@
       {
         "heading": "Veri sorumlusu",
         "body": [
-          "Son güncelleme: 11 Eylül 2026. Ovelyra’nın kontrolündeki işlemler için geliştirici ve veri sorumlusu: Serhat DAĞ. Gizlilik ve destek iletişimi: serhatdagapps@gmail.com."
+          "Son güncelleme: 12 Eylül 2026. Ovelyra’nın kontrolündeki işlemler için geliştirici ve veri sorumlusu: Serhat DAĞ. Gizlilik ve destek iletişimi: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -140,12 +140,12 @@
   },
   "terms": {
     "title": "Kullanım Koşulları",
-    "intro": "Bu Kullanım Koşulları Ovelyra ve Ovelyra Plus kullanımını düzenler. Ovelyra’yı kullanarak uygulamayı hukuka uygun biçimde ve bulunduğun ülke ile cihazındaki uygulama mağazası için geçerli zorunlu kurallara uygun kullanmayı kabul edersin.",
+    "intro": "Bu Kullanım Koşulları Ovelyra ve Ovelyra Plus kullanımını düzenler. Ovelyra’yı kullanarak uygulamayı hukuka uygun biçimde ve bulunduğun ülke veya bölgede geçerli zorunlu kurallar ile Apple App Store koşullarına uygun kullanmayı kabul edersin.",
     "sections": [
       {
         "heading": "Geliştirici, iletişim ve yürürlük tarihi",
         "body": [
-          "Geliştirici: Serhat DAĞ. Destek: serhatdagapps@gmail.com. Yürürlük/son güncelleme: 11 Eylül 2026."
+          "Geliştirici: Serhat DAĞ. Destek: serhatdagapps@gmail.com. Yürürlük/son güncelleme: 12 Eylül 2026."
         ]
       },
       {
@@ -165,7 +165,7 @@
         "heading": "Yerel saklama, güvenlik ve yedekler",
         "body": [
           "Ovelyra çevrimdışı-önceliklidir ve geliştirici tarafından işletilen bir bulut günlük hesabı sunmaz. Cihaz kaybı, işletim sistemi sıfırlaması, uygulamanın silinmesi veya depolama arızası yerel verileri erişilemez hâle getirebilir. Oluşturmayı seçtiğin şifreli yedekleri kendi kontrolündeki güvenli bir yerde tutmak senin sorumluluğundadır.",
-          "Parolayla şifrelenmiş .ovelyra yedeği, yedekleme anındaki tam Ovelyra kullanıcı arşivini; Free planda o anda kilitli olabilecek Plus döneminde oluşturulmuş veriler dahil taşır. Yedek parolası Ovelyra tarafından bilinmez veya saklanmaz ve geliştirici tarafından kurtarılamaz. Ücretli/ödüllü Plus hakkı, abonelik durumu ve makbuzlar yedekten geri yüklenmez. Bilerek kaydettiğin veya paylaştığın PDF’ler açık, şifrelenmemiş dışa aktarımlardır ve buna göre korunmalıdır."
+          "Parolayla şifrelenmiş .ovelyra yedeği, yedekleme anındaki tam Ovelyra kullanıcı arşivini; Free planda o anda kilitli olabilecek Plus döneminde oluşturulmuş veriler dahil taşır. Yedek parolası Ovelyra tarafından bilinmez veya saklanmaz ve geliştirici tarafından kurtarılamaz. Ücretli/ödüllü Plus hakkı, abonelik durumu ve makbuzlar yedekten geri yüklenmez. Bilerek kaydettiğin veya paylaştığın PDF’ler açık, şifrelenmemiş dışa aktarımlardır ve buna göre korunmalıdır. Mevcut Free/Plus erişim durumu hiçbir kullanıcı kaydını yedekten çıkarmaz. Restore sonrasında erişim, o cihazdaki güncel Apple hak sahipliğine göre yeniden hesaplanır: Free durumunda kilitli kayıtlar korunmaya devam eder ve gerçek ücretli Plus aktif olduğunda yeniden erişilebilir olur."
         ]
       },
       {
@@ -235,7 +235,7 @@
       {
         "heading": "Yerel veri ve kurtarma",
         "body": [
-          "Ovelyra geliştirici tarafından işletilen bir bulut günlük hesabı kullanmaz. Destek ekibi normalde günlüklarını, yerel fotoğraf/seslerini veya unutulmuş yedek parolanı göremez ve kurtaramaz. Parolayla şifrelenmiş .ovelyra yedeğin, Free planda kilitli kalabilecek Plus döneminde oluşturulmuş içerikler dahil tam arşivlenmiş kullanıcı verisini başka bir cihaza taşıyabilir; ücretli veya ödüllü Plus hakkının kendisi yedekten asla geri yüklenmez."
+          "Ovelyra geliştirici tarafından işletilen bir bulut günlük hesabı kullanmadığı için destek ekibi Ovelyra sistemlerinden günlüklarına, yerel fotoğraf/seslerine veya unutulmuş yedek parolana erişemez. Özel bir içeriği destek e-postasına bilerek eklersen bu içerik e-postanın parçası olarak alınır. Parolayla şifrelenmiş .ovelyra yedeğin, restore edilen cihaz Free durumundayken kilitli kalan Plus döneminde oluşturulmuş içerikler dahil tam arşivlenmiş kullanıcı verisini başka bir cihaza taşır; ücretli veya ödüllü Plus hakkının kendisi yedekten asla geri yüklenmez."
         ]
       },
       {

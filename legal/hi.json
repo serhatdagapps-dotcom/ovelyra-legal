@@ -1,12 +1,12 @@
 {
   "privacy": {
     "title": "गोपनीयता नीति",
-    "intro": "Ovelyra गोपनीयता-केंद्रित और offline-first जर्नल ऐप है। आपकी अधिकांश निजी जर्नल सामग्री आपके डिवाइस पर एन्क्रिप्टेड स्थानीय स्टोरेज में रहती है। Ovelyra डेवलपर द्वारा संचालित अकाउंट सिस्टम या क्लाउड जर्नल डेटाबेस नहीं चलाता।",
+    "intro": "Ovelyra गोपनीयता-केंद्रित और offline-first जर्नल ऐप है। आपकी निजी जर्नल सामग्री—जर्नल प्रविष्टियाँ, मूड, सपने, फ़ोटो, वॉइस नोट्स, daily-prompt answers और memory capsules—आपके डिवाइस के encrypted local storage में रहती है। Ovelyra डेवलपर द्वारा संचालित account system या cloud journal database नहीं चलाता।",
     "sections": [
       {
         "heading": "अंतिम अपडेट और डेटा नियंत्रक",
         "body": [
-          "अंतिम अपडेट: 11 सितंबर 2026। Ovelyra के नियंत्रण में होने वाली processing के लिए developer और data controller: Serhat DAĞ। Privacy और support contact: serhatdagapps@gmail.com।"
+          "अंतिम अपडेट: 12 सितंबर 2026। Ovelyra के नियंत्रण में होने वाली processing के लिए developer और data controller: Serhat DAĞ। Privacy और support contact: serhatdagapps@gmail.com।"
         ]
       },
       {
@@ -29,7 +29,7 @@
         "heading": "विज्ञापन और सहमति",
         "body": [
           "Free उपयोगकर्ता चुनिंदा secondary screens पर Google Mobile Ads देख सकते हैं और वैकल्पिक rewarded ad पूरा देखकर 12 घंटे का अस्थायी Ovelyra Plus अनुभव पा सकते हैं। प्लेटफ़ॉर्म, सेटिंग, consent और लागू कानून के अनुसार Google Mobile Ads IP address, IP से अनुमानित सामान्य location, उपलब्ध device/advertising identifiers, app/ad interactions, advertising data, diagnostics/performance और consent status प्रोसेस कर सकता है।",
-          "Ovelyra आपके journal text, mood history, dreams, photos, voice notes, prompt answers या capsule content को advertising SDK को जानबूझकर नहीं भेजता। EEA, United Kingdom और Switzerland के eligible users के लिए, ads request करने से पहले जहाँ जरूरी हो वहाँ Google UMP / European regulations consent message इस्तेमाल किया जाता है। Google जब privacy options को required और available बताता है, Settings से उन्हें फिर खोला जा सकता है।"
+          "Ovelyra आपके journal text, mood history, dreams, photos, voice notes, prompt answers या capsule content को advertising SDK को जानबूझकर नहीं भेजता। EEA, United Kingdom और Switzerland के eligible users के लिए, ads request करने से पहले जहाँ जरूरी हो वहाँ Google UMP / European regulations consent message इस्तेमाल किया जाता है। Google जब advertising privacy options को required और available बताता है, Ovelyra वे options उपलब्ध कराता है।"
         ]
       },
       {
@@ -80,7 +80,7 @@
       {
         "heading": "डेटा नियंत्रक",
         "body": [
-          "अंतिम अपडेट: 11 सितंबर 2026। Ovelyra के नियंत्रण में होने वाली processing के लिए developer और data controller: Serhat DAĞ। Privacy और support contact: serhatdagapps@gmail.com।"
+          "अंतिम अपडेट: 12 सितंबर 2026। Ovelyra के नियंत्रण में होने वाली processing के लिए developer और data controller: Serhat DAĞ। Privacy और support contact: serhatdagapps@gmail.com।"
         ]
       },
       {
@@ -140,12 +140,12 @@
   },
   "terms": {
     "title": "उपयोग की शर्तें",
-    "intro": "ये Terms Ovelyra और Ovelyra Plus के उपयोग को नियंत्रित करती हैं। ऐप का उपयोग करके आप अपने device और country पर लागू mandatory rules और store terms के अधीन वैध उपयोग से सहमत होते हैं।",
+    "intro": "ये Terms Ovelyra और Ovelyra Plus के उपयोग को नियंत्रित करती हैं। Ovelyra का उपयोग करके आप ऐप का वैध रूप से उपयोग करने और अपने देश या region में लागू mandatory law तथा Apple App Store terms का पालन करने से सहमत होते हैं।",
     "sections": [
       {
         "heading": "डेवलपर, संपर्क और तारीख",
         "body": [
-          "Developer: Serhat DAĞ। Support: serhatdagapps@gmail.com। Effective/last updated: 11 सितंबर 2026।"
+          "Developer: Serhat DAĞ। Support: serhatdagapps@gmail.com। Effective/last updated: 12 सितंबर 2026।"
         ]
       },
       {
@@ -165,7 +165,7 @@
         "heading": "Local storage, security और backups",
         "body": [
           "Ovelyra offline-first है और developer-operated cloud journal account नहीं देता। Device loss, OS reset, app deletion या storage failure से local data unavailable हो सकता है। बनाए गए encrypted backups को अपने control वाले सुरक्षित स्थान पर रखना आपकी जिम्मेदारी है।",
-          "Password-encrypted .ovelyra backup में backup के समय पूरा Ovelyra user archive होता है, जिसमें Plus के दौरान बनाया गया और Free में locked data भी शामिल हो सकता है। Ovelyra backup password को जानता या store नहीं करता और developer इसे recover नहीं कर सकता। Paid/rewarded Plus entitlement, subscription state और receipts backup से restore नहीं होते। जानबूझकर save/share किए गए PDFs clear, unencrypted exports हैं और उसी अनुसार सुरक्षित रखे जाने चाहिए।"
+          "Password-encrypted .ovelyra backup में backup के समय पूरा Ovelyra user archive होता है, जिसमें Plus के दौरान बनाया गया और Free में locked data भी शामिल हो सकता है। Ovelyra backup password को जानता या store नहीं करता और developer इसे recover नहीं कर सकता। Paid/rewarded Plus entitlement, subscription state और receipts backup से restore नहीं होते। जानबूझकर save/share किए गए PDFs clear, unencrypted exports हैं और उसी अनुसार सुरक्षित रखे जाने चाहिए। मौजूदा Free/Plus access किसी user record को backup से कभी बाहर नहीं करता। Restore के बाद उस device के current Apple entitlement के आधार पर access दोबारा तय होता है: Free में locked records सुरक्षित रहते हैं और genuine paid Plus active होने पर फिर accessible हो जाते हैं।"
         ]
       },
       {
@@ -235,7 +235,7 @@
       {
         "heading": "Local data और recovery",
         "body": [
-          "Ovelyra developer-operated cloud journal account इस्तेमाल नहीं करता। Support आमतौर पर आपके journals, local photos/audio या भूला backup password देख या recover नहीं कर सकता। Password-encrypted .ovelyra backup पूरा archived user data दूसरे device पर ले जा सकता है, जिसमें Plus के दौरान बनाया गया और Free में locked content भी शामिल है; paid या rewarded Plus entitlement खुद backup से कभी restore नहीं होता।"
+          "Ovelyra developer-operated cloud journal account इस्तेमाल नहीं करता, इसलिए support Ovelyra systems से आपके journals, local photos/audio या भूला backup password access नहीं कर सकता। अगर आप जानबूझकर private content किसी support email में attach करते हैं, तो वह content उस email के हिस्से के रूप में प्राप्त होता है। Password-encrypted .ovelyra backup पूरा archived user data दूसरे device पर ले जाता है, जिसमें Plus के दौरान बनाया गया content भी शामिल है जो restored device के Free होने पर locked रहता है; paid या rewarded Plus entitlement खुद backup से कभी restore नहीं होता।"
         ]
       },
       {
