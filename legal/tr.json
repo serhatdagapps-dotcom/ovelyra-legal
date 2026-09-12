@@ -6,7 +6,7 @@
       {
         "heading": "Son güncelleme ve veri sorumlusu",
         "body": [
-          "Son güncelleme: 24 Ağustos 2026. Ovelyra’nın kontrolündeki kişisel veri işleme faaliyetleri bakımından geliştirici ve veri sorumlusu: Serhat DAĞ. Gizlilik ve destek iletişimi: serhatdagapps@gmail.com."
+          "Son güncelleme: 11 Eylül 2026. Ovelyra’nın kontrolündeki işlemler için geliştirici ve veri sorumlusu: Serhat DAĞ. Gizlilik ve destek iletişimi: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -20,7 +20,7 @@
       {
         "heading": "Cihazından çıkabilecek bilgiler",
         "body": [
-          "Google Mobile Ads ve rıza araçları reklamların sunulması, ölçülmesi ve korunması için gerekli sınırlı teknik ve reklam verilerini işleyebilir. Apple App Store veya Google Play satın almaları işler ve Ovelyra’ya ürün, işlem ve abonelik/erişim durumu sağlayabilir. Ovelyra tam ödeme kartı bilgilerini almaz.",
+          "Google Mobile Ads ve rıza araçları reklamları sunmak, ölçmek ve korumak için gerekli teknik ve reklam verilerini işleyebilir. Ovelyra Plus satın almaları yalnızca Apple App Store tarafından işlenir. iOS’ta Ovelyra, ücretli erişimi cihazdaki doğrulanmış StoreKit işlem/hak sahipliği bilgisinden belirler. Geliştirici tarafından işletilen ayrı bir abonelik doğrulama sunucusu kullanılmaz ve Ovelyra tam ödeme kartı bilgilerini almaz.",
           "Destek için bize yazarsan e-posta adresin, mesajın ve kendi isteğinle gönderdiğin cihaz/uygulama bilgileri yalnızca yanıt vermek, sorunu çözmek, hizmeti korumak veya hukuki yükümlülükleri yerine getirmek amacıyla işlenir. Gerekli değilse özel günlük metni, yedek parolası veya başka hassas içerik gönderme.",
           "Bu yasal site GitHub Pages üzerinde barındırılır. GitHub kendi gizlilik koşulları kapsamında teknik bağlantı verilerini işleyebilir. Site yalnızca seçtiğin yasal sayfa dilini tarayıcının yerel depolamasında saklar. Ovelyra, özel günlük etkinliğin için ayrı bir analiz SDK’sı kullanmaz."
         ]
@@ -29,26 +29,26 @@
         "heading": "Reklamlar ve rıza",
         "body": [
           "Free kullanıcılar seçili ikinci seviye ekranlarda Google Mobile Ads reklamları görebilir ve geçici 12 saatlik Ovelyra Plus deneyimi için isteğe bağlı ödüllü reklam izleyebilir. Platforma, yapılandırmaya, rızaya ve yürürlükteki kurallara bağlı olarak Google Mobile Ads; IP adresi, IP’den türetilen yaklaşık/genel konum, mevcutsa cihaz veya reklam tanımlayıcıları, uygulama/reklam etkileşimleri, reklam verileri, tanılama/performans bilgileri ve rıza durumunu işleyebilir.",
-          "Ovelyra günlük metinlerini, ruh hali geçmişini, rüyaları, fotoğrafları, sesli notları, soru cevaplarını veya anı kapsülü içeriğini reklam SDK’sına bilerek göndermez. Gerekli bölgelerde Google’ın rıza araçları kullanılır ve mevcut reklam gizlilik tercihlerini uygulama içinden yeniden yönetme imkânı sunulur."
+          "Ovelyra günlük metnini, ruh hali geçmişini, rüyaları, fotoğrafları, sesli notları, soru cevaplarını veya anı kapsülü içeriğini reklam SDK’sına bilerek göndermez. AEA, Birleşik Krallık ve İsviçre’de uygun kullanıcılar için, reklam istenmeden önce gerekli olduğunda Google UMP / European regulations rıza mesajı kullanılır. Google gerekli ve kullanılabilir olduğunu bildirdiğinde Ayarlar içinde reklam gizlilik seçeneklerine yeniden erişim sağlanır."
         ]
       },
       {
         "heading": "Abonelikler ve ödemeler",
         "body": [
-          "Aylık ve yıllık Ovelyra Plus abonelikleri Apple App Store veya Google Play üzerinden satın alınır. Ödeme, faturalandırma, yenileme, iptal ve iade süreçleri mağazanın kendi koşullarına göre yürütülür. Ovelyra yalnızca Plus özelliklerini açmak veya geri yüklemek için gerekli sınırlı satın alma ve erişim durumunu alabilir."
+          "Aylık ve yıllık Ovelyra Plus abonelikleri yalnızca Apple App Store üzerinden satın alınır. Ödeme, faturalandırma, yenileme, iptal ve iade talepleri Apple’ın kendi koşullarına göre Apple tarafından işlenir. Ovelyra ücretli Plus erişimini açmak veya geri yüklemek için cihazdaki doğrulanmış StoreKit hak sahipliği bilgisini kullanır."
         ]
       },
       {
         "heading": "İzinler, widget ve paylaşım",
         "body": [
           "Bildirim izni hatırlatmalar için istenir. Fotoğraf/kamera erişimi yalnızca görsel eklemeyi seçtiğinde, mikrofon erişimi yalnızca ses kaydetmeyi seçtiğinde istenir. Temel Ovelyra özellikleri kişiler veya hassas konum erişimi gerektirmez.",
-          "Ana ekran widget’ını etkinleştirirsen göstermeyi seçtiğin ruh hali bilgisi cihazının ana ekranında görünebilir. Yedek, PDF, görsel veya başka bir dosyayı sistem paylaşım menüsüyle dışa aktarırsan, seçtiğin hedef hizmet dosyayı kendi koşullarına göre işler."
+          "Ana ekran widget’ını etkinleştirirsen göstermeyi seçtiğin ruh hali bilgisi cihazının ana ekranında görülebilir. .ovelyra yedeği kaydettiğinde veya paylaştığında parola ile şifrelenmiş arşiv olarak kalır. PDF ise açık, şifrelenmemiş bir dışa aktarımdır. Yedek, PDF, görsel veya başka bir dosyayı Ovelyra dışına kaydeder ya da paylaşırsan seçtiğin hedef hizmet dosyayı kendi koşullarına göre işler ve korur."
         ]
       },
       {
         "heading": "Saklama, silme ve güvenlik",
         "body": [
-          "Yerel Ovelyra içeriği sen silene, uygulamayı sıfırlayana, yerel veriyi kaldıracak şekilde uygulamayı kaldırana veya veriyi değiştirip geri yükleyene kadar cihazında kalır. Şifreli .ovelyra yedeği yalnızca sen istediğinde oluşturulur; yedek parolanı unutursan Ovelyra bunu kurtaramaz.",
+          "Yerel Ovelyra içeriği sen silene, uygulamayı sıfırlayana, yerel veriyi kaldıracak şekilde uygulamayı kaldırana veya veriyi geri yükleyip/değiştirene kadar cihazında kalır. Şifreli .ovelyra yedeği, yedekleme anında Ovelyra arşivinde bulunan tüm kullanıcı verilerini; Free erişim sınırı nedeniyle o anda kilitli olan Plus döneminde oluşturulmuş içerikleri de kapsar. Ücretli/ödüllü Plus hakkı ve abonelik durumu yedeğe dahil edilmez. Yedek yalnız sen istediğinde oluşturulur; parolayı unutursan Ovelyra geri getiremez.",
           "Destek yazışmaları yalnızca talebi yanıtlamak, sorunu çözmek, hukuki hakları korumak veya yasal yükümlülükleri yerine getirmek için makul ölçüde gerekli olduğu sürece tutulur; ihtiyaç kalmadığında silinir veya asgariye indirilir. Üçüncü taraf sağlayıcılar kendi işledikleri veriler için kendi saklama kurallarını uygular.",
           "Ovelyra yerel şifreleme ve platform güvenlik özelliklerini kullanır; ancak hiçbir saklama veya iletim yöntemi için yüzde 100 güvenlik garantisi verilemez."
         ]
@@ -62,7 +62,7 @@
       {
         "heading": "Tercihlerin ve hakların",
         "body": [
-          "Yerel Ovelyra verilerini uygulama içinden yönetebilir veya silebilir; bildirim ayarlarını değiştirebilir; mevcut reklam gizlilik tercihlerini yeniden yönetebilir ve ücretli aboneliğini ilgili uygulama mağazasından yönetebilirsin. Gizlilik, kişisel veriler veya destek talepleri için serhatdagapps@gmail.com adresine yazabilirsin."
+          "Uygulama içinden yerel Ovelyra verilerini yönetebilir veya silebilir, bildirim ayarlarını değiştirebilir, kullanılabilir Google reklam gizlilik seçeneklerini inceleyebilir ve ücretli Ovelyra Plus aboneliğini Apple App Store üzerinden yönetebilirsin. Gizlilik, veri koruma veya destek talepleri serhatdagapps@gmail.com adresine gönderilebilir."
         ]
       },
       {
@@ -80,7 +80,7 @@
       {
         "heading": "Veri sorumlusu",
         "body": [
-          "Veri sorumlusu: Serhat DAĞ. İletişim: serhatdagapps@gmail.com. Son güncelleme: 24 Ağustos 2026."
+          "Son güncelleme: 11 Eylül 2026. Ovelyra’nın kontrolündeki işlemler için geliştirici ve veri sorumlusu: Serhat DAĞ. Gizlilik ve destek iletişimi: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -94,7 +94,7 @@
         "body": [
           "Destek talebi gönderdiğinde: e-posta adresi, mesaj içeriği, kendi isteğinle ilettiğin cihaz/uygulama bilgileri ve yazışma kayıtları.",
           "Reklam ve rıza süreçlerinde: Google Mobile Ads/Google rıza hizmetleri üzerinden sınırlı cihaz/ağ tanımlayıcıları, IP adresi, IP’den türetilen genel konum, mevcutsa reklam veya uygulama tanımlayıcıları, reklam/uygulama etkileşimleri, tanılama/performans bilgileri ve rıza tercihleri işlenebilir.",
-          "Satın alma süreçlerinde: Apple App Store veya Google Play üzerinden ürün, işlem, abonelik durumu ve erişim hakkı bilgileri işlenebilir. Ovelyra tam ödeme kartı bilgilerini almaz.",
+          "Satın almalar bakımından: Apple App Store ürün, işlem, abonelik durumu ve hak sahipliği bilgilerini işleyebilir. Ovelyra cihazdaki doğrulanmış StoreKit hak sahipliği bilgisini kontrol eder ve geliştirici tarafından işletilen ayrı bir abonelik doğrulama sunucusu kullanmaz. Tam kart bilgileri Ovelyra tarafından alınmaz.",
           "Yasal siteyi ziyaret ettiğinde: GitHub Pages teknik istek/bağlantı bilgilerini işleyebilir; seçtiğin dil ise tarayıcıda yerel olarak saklanır."
         ]
       },
@@ -114,7 +114,7 @@
       {
         "heading": "Aktarım yapılan alıcı grupları",
         "body": [
-          "Kullanılan özelliğe bağlı olarak sınırlı veriler; reklam ve rıza hizmetleri için Google’a, mağaza ödeme/abonelik erişimi için Apple veya Google’a, yasal sitenin barındırılması için GitHub’a ve sen açıkça bir dosyayı paylaştığında seçtiğin hedef hizmete aktarılabilir. Özel günlük içeriği reklam sağlayıcılarına bilerek aktarılmaz.",
+          "Kullanılan özelliğe bağlı olarak sınırlı veriler; reklam ve rıza hizmetleri için Google’a, App Store ödeme/abonelik hak sahipliği hizmetleri için Apple’a, yasal sitenin barındırılması için GitHub’a ve sen açıkça bir dosyayı dışa aktarıp/paylaştığında seçtiğin hedef hizmete aktarılabilir. Özel günlük içeriği reklam sağlayıcılarına bilerek aktarılmaz.",
           "Küresel hizmet sağlayıcılar verileri yurt dışında işleyebilir. Bu işlemler yürürlükteki yurt dışı aktarım kuralları, ilgili sağlayıcının geçerli güvenceleri ve hizmet koşulları çerçevesinde yürütülür."
         ]
       },
@@ -145,7 +145,7 @@
       {
         "heading": "Geliştirici, iletişim ve yürürlük tarihi",
         "body": [
-          "Geliştirici: Serhat DAĞ. Destek: serhatdagapps@gmail.com. Yürürlük/son güncelleme: 24 Ağustos 2026."
+          "Geliştirici: Serhat DAĞ. Destek: serhatdagapps@gmail.com. Yürürlük/son güncelleme: 11 Eylül 2026."
         ]
       },
       {
@@ -164,8 +164,8 @@
       {
         "heading": "Yerel saklama, güvenlik ve yedekler",
         "body": [
-          "Ovelyra çevrimdışı-önceliklidir ve geliştirici tarafından işletilen bir bulut günlük hesabı sunmaz. Cihaz kaybı, işletim sistemi sıfırlaması, uygulamanın silinmesi veya depolama arızası yerel verileri erişilemez hâle getirebilir. Oluşturmayı seçtiğin şifreli yedekleri güvenli tutmak senin sorumluluğundadır.",
-          "Yedek parolan Ovelyra tarafından bilinmez ve unutulursa geliştirici tarafından kurtarılamaz."
+          "Ovelyra çevrimdışı-önceliklidir ve geliştirici tarafından işletilen bir bulut günlük hesabı sunmaz. Cihaz kaybı, işletim sistemi sıfırlaması, uygulamanın silinmesi veya depolama arızası yerel verileri erişilemez hâle getirebilir. Oluşturmayı seçtiğin şifreli yedekleri kendi kontrolündeki güvenli bir yerde tutmak senin sorumluluğundadır.",
+          "Parolayla şifrelenmiş .ovelyra yedeği, yedekleme anındaki tam Ovelyra kullanıcı arşivini; Free planda o anda kilitli olabilecek Plus döneminde oluşturulmuş veriler dahil taşır. Yedek parolası Ovelyra tarafından bilinmez veya saklanmaz ve geliştirici tarafından kurtarılamaz. Ücretli/ödüllü Plus hakkı, abonelik durumu ve makbuzlar yedekten geri yüklenmez. Bilerek kaydettiğin veya paylaştığın PDF’ler açık, şifrelenmemiş dışa aktarımlardır ve buna göre korunmalıdır."
         ]
       },
       {
@@ -178,21 +178,21 @@
       {
         "heading": "Ücretli Ovelyra Plus abonelikleri",
         "body": [
-          "Aylık ve yıllık Ovelyra Plus, Apple App Store veya Google Play üzerinden satın alınan otomatik yenilenebilir aboneliklerdir. Satın alma öncesinde mağaza/uygulama satın alma ekranında abonelik adı, süresi ve güncel fiyat gösterilmelidir. İptal edilmezse abonelik mağaza koşullarına göre otomatik yenilenebilir.",
-          "İptal, yenileme zamanı, varsa faturalandırma ek süresi, satın almayı geri yükleme ve ödeme işlemleri ilgili mağaza ve yürürlükteki mevzuat tarafından yönetilir. İptal normalde gelecekteki yenilemeyi durdurur; ücretli erişim mağazanın bildirdiği hak sahipliği süresi bitene kadar devam eder."
+          "Aylık ve yıllık Ovelyra Plus yalnızca Apple App Store üzerinden satın alınan otomatik yenilenebilir aboneliklerdir. Satın alma öncesinde Apple’ın satın alma ekranı ürün adını, süreyi ve güncel fiyatı gösterir. İptal edilmezse abonelik Apple’ın koşullarına göre otomatik yenilenebilir.",
+          "İptal, yenileme zamanı, uygulanıyorsa faturalandırma ek süresi, satın almayı geri yükleme ve ödeme işlemleri Apple ve yürürlükteki mevzuat tarafından yönetilir. Ovelyra cihazdaki doğrulanmış StoreKit mevcut hak sahipliği bilgisini kontrol eder; geliştiriciye ait ayrı bir abonelik doğrulama sunucusu Plus hakkı vermez."
         ]
       },
       {
         "heading": "Ücretli Plus sona erdiğinde ne olur",
         "body": [
-          "Ücretli aboneliğin sona ermesi, Plus aktifken oluşturduğun içerikleri silmez. Örneğin ücretli Plus sırasında 10 anı kapsülü oluşturduysan, üyelik bittikten sonra 10 kapsülün de kalır. Free durumda mevcut kapsülleri görebilir, zamanı gelince açabilir veya silebilirsin; toplam kapsül sayın 3’ün altına düşene kadar yeni kapsül oluşturamazsın.",
-          "Diğer Plus’a özel oluşturma, dışa aktarma, tema, avatar veya gelişmiş analiz özellikleri Plus yeniden aktif olana kadar kullanılamayabilir veya Free davranışına dönebilir."
+          "Ücretli aboneliğin sona ermesi kullanıcı tarafından oluşturulan içeriği asla silmez. Örneğin ücretli Plus bittikten sonra 6 Anı Kapsülü kayıtlıysa 6’sı da cihazda kalır ve şifreli yedeğe dahil edilir. Free planda oluşturulma tarihine göre en eski 3 kapsüle erişilebilir; diğer 3 kapsül korunur ancak kilitli kalır ve gerçek aylık veya yıllık ücretli Plus hakkı yeniden aktif olana kadar özel başlık/mesajları görüntülenemez, açılamaz, düzenlenemez veya silinemez. 12 saatlik ödüllü Plus deneyimi bu ücretli-Plus’a özel fazla kapsüllerin kilidini açmaz.",
+          "Ücretli Plus yeniden aktif olduğunda aynı korunmuş kapsüllere taşıma veya kopyalama olmadan tekrar erişilir. Diğer Plus’a özel dışa aktarma, tema, avatar veya gelişmiş analiz özellikleri ücretli Plus pasifken kullanılamayabilir ya da Free davranışına dönebilir; ancak bunların dayandığı kullanıcı tarafından oluşturulan veriler yalnızca hak sona erdi diye silinmez."
         ]
       },
       {
         "heading": "İade ve abonelik yönetimi",
         "body": [
-          "Ödemeler Apple veya Google tarafından işlenir. Aboneliği yönetme ve iade talepleri ilgili mağaza üzerinden, mağaza kuralları ve emredici tüketici mevzuatı çerçevesinde yürütülür. Ovelyra tam ödeme kartı bilgilerini doğrudan almaz."
+          "Ödemeler, abonelik yönetimi, iptal ve iade talepleri Apple App Store üzerinden Apple’ın kuralları ve emredici tüketici mevzuatı kapsamında yürütülür. Ovelyra tam ödeme kartı bilgilerini doğrudan almaz."
         ]
       },
       {
@@ -223,7 +223,7 @@
         "heading": "İletişim",
         "body": [
           "Geliştirici: Serhat DAĞ. E-posta: serhatdagapps@gmail.com.",
-          "Teknik bir sorun bildirirken cihaz modelini, Android/iOS sürümünü, Ovelyra sürümünü ve ne olduğunu kısaca yaz."
+          "Teknik bir sorun bildirirken iPhone modelini, iOS sürümünü, Ovelyra sürümünü ve ne olduğunu kısaca yaz."
         ]
       },
       {
@@ -235,13 +235,13 @@
       {
         "heading": "Yerel veri ve kurtarma",
         "body": [
-          "Ovelyra geliştirici tarafından işletilen bir bulut günlük hesabı kullanmaz. Destek ekibi normalde günlüklerini, yerel fotoğraf/seslerini veya unutulmuş şifreli yedek parolanı göremez ve kurtaramaz. Taşıma veya kurtarma için kendi şifreli yedeğini kullan."
+          "Ovelyra geliştirici tarafından işletilen bir bulut günlük hesabı kullanmaz. Destek ekibi normalde günlüklarını, yerel fotoğraf/seslerini veya unutulmuş yedek parolanı göremez ve kurtaramaz. Parolayla şifrelenmiş .ovelyra yedeğin, Free planda kilitli kalabilecek Plus döneminde oluşturulmuş içerikler dahil tam arşivlenmiş kullanıcı verisini başka bir cihaza taşıyabilir; ücretli veya ödüllü Plus hakkının kendisi yedekten asla geri yüklenmez."
         ]
       },
       {
         "heading": "Abonelik, gizlilik ve KVKK talepleri",
         "body": [
-          "Ödeme, iptal ve iade süreçleri Apple App Store veya Google Play üzerinden yönetilir. Gizlilik veya KVKK başvurularını da serhatdagapps@gmail.com adresine gönderebilirsin; veri güvenliği için gerektiğinde makul kimlik doğrulaması istenebilir."
+          "Ödeme, iptal, abonelik yönetimi ve iade talepleri Apple App Store üzerinden yürütülür. Gizlilik veya KVKK başvurularını da serhatdagapps@gmail.com adresine gönderebilirsin; verini korumak için gerektiğinde makul kimlik doğrulaması istenebilir."
         ]
       }
     ]

@@ -6,7 +6,7 @@
       {
         "heading": "Letzte Aktualisierung und Verantwortlicher",
         "body": [
-          "Letzte Aktualisierung: 24. August 2026. Entwickler und Verantwortlicher für die von Ovelyra kontrollierten Verarbeitungen: Serhat DAĞ. Datenschutz und Support: serhatdagapps@gmail.com."
+          "Letzte Aktualisierung: 11. September 2026. Entwickler und Verantwortlicher für Verarbeitungen unter der Kontrolle von Ovelyra: Serhat DAĞ. Datenschutz und Support: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -20,7 +20,7 @@
       {
         "heading": "Daten, die dein Gerät verlassen können",
         "body": [
-          "Google Mobile Ads und die zugehörigen Einwilligungswerkzeuge können begrenzte technische und Werbedaten verarbeiten, die zur Bereitstellung, Messung und Absicherung von Werbung erforderlich sind. Apple App Store oder Google Play verarbeitet Käufe und kann Ovelyra Produkt-, Transaktions- und Abo-/Berechtigungsstatus übermitteln. Ovelyra erhält keine vollständigen Zahlungskartendaten.",
+          "Google Mobile Ads und seine Einwilligungsdienste können technische und werbebezogene Daten verarbeiten, die für Bereitstellung, Messung und Schutz von Werbung erforderlich sind. Käufe von Ovelyra Plus werden ausschließlich über den Apple App Store abgewickelt. Unter iOS bestimmt Ovelyra den aktuellen bezahlten Zugriff anhand verifizierter StoreKit-Transaktions- und Berechtigungsinformationen auf dem Gerät. Ein separater, vom Entwickler betriebener Server zur Abo-Verifizierung wird nicht verwendet; vollständige Kartendaten erhält Ovelyra nicht.",
           "Wenn du den Support kontaktierst, werden deine E-Mail-Adresse, Nachricht und freiwillig übermittelte Geräte-/App-Daten nur zur Beantwortung, Fehlerbehebung, Absicherung des Dienstes oder Erfüllung rechtlicher Pflichten verarbeitet. Sende keine privaten Tagebuchtexte, Backup-Passwörter oder andere sensible Inhalte, sofern dies nicht notwendig ist.",
           "Diese rechtliche Website wird über GitHub Pages gehostet. GitHub kann technische Verbindungsdaten nach eigenen Datenschutzbedingungen verarbeiten. Die Website speichert nur die gewählte Sprache lokal im Browser. Ovelyra verwendet derzeit kein separates Analyse-SDK für deine private Tagebuchaktivität."
         ]
@@ -29,26 +29,26 @@
         "heading": "Werbung und Einwilligung",
         "body": [
           "Free-Nutzer können auf ausgewählten Unterseiten Google Mobile Ads sehen und optional eine Rewarded-Anzeige für ein vorübergehendes 12-stündiges Ovelyra-Plus-Erlebnis ansehen. Abhängig von Plattform, Konfiguration, Einwilligung und Recht kann Google Mobile Ads Daten wie IP-Adresse, daraus abgeleiteten ungefähren Standort, Geräte-/Werbe-IDs soweit verfügbar, App-/Werbeinteraktionen, Werbedaten, Diagnose-/Leistungsdaten und Einwilligungsstatus verarbeiten.",
-          "Ovelyra sendet Tagebuchtexte, Stimmungsverlauf, Träume, Fotos, Sprachnotizen, Antworten oder Kapselinhalte nicht absichtlich an das Werbe-SDK. Wo erforderlich, werden Googles Einwilligungswerkzeuge genutzt und verfügbare Werbedatenschutz-Einstellungen können in der App erneut verwaltet werden."
+          "Ovelyra übermittelt Tagebuchtexte, Stimmungsverlauf, Träume, Fotos, Sprachnotizen, Prompt-Antworten oder Inhalte von Zeitkapseln nicht absichtlich an das Werbe-SDK. Für berechtigte Nutzer im EWR, Vereinigten Königreich und in der Schweiz verwendet Ovelyra, soweit erforderlich, Google UMP / die Einwilligungsnachricht zu europäischen Vorschriften, bevor Werbung angefordert wird. In den Einstellungen können Google-Werbedatenschutzoptionen erneut geöffnet werden, wenn Google sie als erforderlich und verfügbar meldet."
         ]
       },
       {
         "heading": "Abonnements und Zahlungen",
         "body": [
-          "Monatliche und jährliche Ovelyra-Plus-Abos werden über Apple App Store oder Google Play gekauft. Diese Stores verarbeiten Zahlung, Abrechnung, Verlängerung, Kündigung und Erstattungen nach ihren Bedingungen. Ovelyra kann nur begrenzte Kauf- und Berechtigungsinformationen erhalten, die zum Aktivieren oder Wiederherstellen von Plus nötig sind."
+          "Monatliche und jährliche Ovelyra-Plus-Abos werden ausschließlich über den Apple App Store gekauft. Apple verarbeitet Zahlung, Abrechnung, Verlängerung, Kündigung und Erstattungsanfragen nach eigenen Bedingungen. Ovelyra verwendet verifizierte StoreKit-Berechtigungsinformationen auf dem Gerät, um bezahlten Plus-Zugriff freizuschalten oder wiederherzustellen."
         ]
       },
       {
         "heading": "Berechtigungen, Widgets und Teilen",
         "body": [
           "Benachrichtigungen werden für Erinnerungen angefragt. Foto/Kamera nur beim Hinzufügen eines Bildes, Mikrofon nur bei Audioaufnahme. Kernfunktionen benötigen weder Kontakte noch präzisen Standort.",
-          "Bei aktiviertem Startbildschirm-Widget kann die von dir gewählte Stimmung auf dem Startbildschirm sichtbar sein. Exportierst oder teilst du Backup, PDF, Bild oder andere Datei über das System, verarbeitet der gewählte Zieldienst die Datei nach seinen Bedingungen."
+          "Wenn du das Home-Screen-Widget aktivierst, können die von dir ausgewählten Stimmungsinformationen auf dem Startbildschirm sichtbar sein. Ein .ovelyra-Backup bleibt beim Speichern oder Teilen ein passwortverschlüsseltes Archiv. Ein PDF ist dagegen ein offener, unverschlüsselter Export. Speichert oder teilt man ein Backup, PDF, Bild oder eine andere Datei außerhalb von Ovelyra, verarbeitet und schützt der gewählte Zielanbieter die Datei nach seinen eigenen Bedingungen."
         ]
       },
       {
         "heading": "Speicherung, Löschung und Sicherheit",
         "body": [
-          "Lokale Inhalte bleiben auf dem Gerät, bis du sie löschst, die App zurücksetzt, sie mit lokaler Datenlöschung deinstallierst oder Daten ersetzt/wiederherstellst. Verschlüsselte .ovelyra-Backups werden nur auf Wunsch erstellt; ein vergessenes Backup-Passwort kann Ovelyra nicht wiederherstellen.",
+          "Lokale Ovelyra-Inhalte bleiben auf dem Gerät, bis du sie löschst, die App zurücksetzt, sie mit Entfernung lokaler Daten deinstallierst oder Daten ersetzt/wiederherstellst. Ein verschlüsseltes .ovelyra-Backup enthält das vollständige von Ovelyra erfasste Benutzerarchiv zum Zeitpunkt der Sicherung, einschließlich mit Plus erstellter Inhalte, die wegen Free-Zugriffsgrenzen aktuell gesperrt sind. Bezahlte/Rewarded-Plus-Berechtigungen und Abo-Status werden nicht gesichert. Das Backup wird nur auf deinen Wunsch erstellt; ein vergessenes Passwort kann Ovelyra nicht wiederherstellen.",
           "Support-Nachrichten werden nur so lange aufbewahrt, wie dies vernünftigerweise zur Bearbeitung, Fehlerbehebung, Rechtswahrung oder Erfüllung gesetzlicher Pflichten erforderlich ist, danach gelöscht oder minimiert. Drittanbieter haben eigene Aufbewahrungsregeln.",
           "Ovelyra nutzt lokale Verschlüsselung und Plattform-Sicherheitsfunktionen; vollständige Sicherheit kann jedoch nicht garantiert werden."
         ]
@@ -62,7 +62,7 @@
       {
         "heading": "Deine Wahlmöglichkeiten und Rechte",
         "body": [
-          "Du kannst lokale Ovelyra-Daten in der App verwalten oder löschen, Benachrichtigungen ändern, verfügbare Werbedatenschutz-Einstellungen verwalten und Abos über den jeweiligen Store verwalten. Datenschutz- oder Supportanfragen: serhatdagapps@gmail.com."
+          "Du kannst lokale Ovelyra-Daten in der App verwalten oder löschen, Benachrichtigungen ändern, verfügbare Google-Werbedatenschutzoptionen prüfen und ein bezahltes Ovelyra-Plus-Abo über den Apple App Store verwalten. Datenschutz- oder Supportanfragen: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -80,7 +80,7 @@
       {
         "heading": "Verantwortlicher",
         "body": [
-          "Verantwortlicher: Serhat DAĞ. Kontakt: serhatdagapps@gmail.com. Letzte Aktualisierung: 24. August 2026."
+          "Letzte Aktualisierung: 11. September 2026. Entwickler und Verantwortlicher für Verarbeitungen unter der Kontrolle von Ovelyra: Serhat DAĞ. Datenschutz und Support: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -94,7 +94,7 @@
         "body": [
           "Support: E-Mail-Adresse, Nachrichteninhalt, freiwillig übermittelte Geräte-/App-Daten und Korrespondenz.",
           "Werbung/Einwilligung: Google Mobile Ads und Einwilligungsdienste können begrenzte technische Kennungen, IP-Adresse, daraus abgeleiteten allgemeinen Standort, verfügbare Werbe-/App-Kennungen, Interaktionen, Diagnose-/Leistungsdaten und Einwilligungsentscheidungen verarbeiten.",
-          "Käufe: Apple App Store oder Google Play kann Produkt-, Transaktions-, Abo- und Berechtigungsinformationen verarbeiten. Ovelyra erhält keine vollständigen Kartendaten.",
+          "Bei Käufen kann der Apple App Store Produkt-, Transaktions-, Abo- und Berechtigungsinformationen verarbeiten. Ovelyra prüft verifizierte StoreKit-Berechtigungsinformationen auf dem Gerät und verwendet keinen separaten vom Entwickler betriebenen Abo-Verifizierungsserver. Vollständige Kartendaten erhält Ovelyra nicht.",
           "Rechts-Website: GitHub Pages kann technische Request-Daten verarbeiten; die gewählte Sprache bleibt lokal im Browser."
         ]
       },
@@ -114,7 +114,7 @@
       {
         "heading": "Empfänger und Übermittlungen",
         "body": [
-          "Je nach Funktion können begrenzte Daten von Google für Werbung/Einwilligung, Apple oder Google für Abrechnung/Berechtigung, GitHub für Website-Hosting sowie dem von dir beim Teilen/Export gewählten Dienst verarbeitet werden. Private Tagebuchinhalte werden nicht absichtlich an Werbeanbieter übertragen.",
+          "Je nach Funktion können begrenzte Daten an Google für Werbung und Einwilligung, an Apple für App-Store-Zahlungen und Abo-Berechtigungen, an GitHub für das Hosting der Rechts-Website sowie an den von dir ausdrücklich gewählten Zielanbieter beim Exportieren/Teilen einer Datei übermittelt werden. Private Tagebuchinhalte werden Werbeanbietern nicht absichtlich übermittelt.",
           "Globale Anbieter können Daten außerhalb von Türkiye nach den anwendbaren Regeln für internationale Übermittlungen, ihren Garantien und Bedingungen verarbeiten."
         ]
       },
@@ -145,7 +145,7 @@
       {
         "heading": "Entwickler, Kontakt und Datum",
         "body": [
-          "Entwickler: Serhat DAĞ. Support: serhatdagapps@gmail.com. Gültig/zuletzt aktualisiert: 24. August 2026."
+          "Entwickler: Serhat DAĞ. Support: serhatdagapps@gmail.com. Gültig/zuletzt aktualisiert: 11. September 2026."
         ]
       },
       {
@@ -164,8 +164,8 @@
       {
         "heading": "Lokale Speicherung, Sicherheit und Backups",
         "body": [
-          "Ovelyra ist offline-first und bietet kein vom Entwickler betriebenes Cloud-Tagebuchkonto. Geräteverlust, Reset, App-Löschung oder Speicherfehler können lokale Daten unzugänglich machen. Du bist für deine verschlüsselten Backups verantwortlich.",
-          "Das Backup-Passwort ist Ovelyra nicht bekannt und kann nicht wiederhergestellt werden."
+          "Ovelyra ist offline-first und bietet kein vom Entwickler betriebenes Cloud-Tagebuchkonto. Geräteverlust, System-Reset, Löschen der App oder Speicherfehler können lokale Daten unzugänglich machen. Du bist dafür verantwortlich, von dir erstellte verschlüsselte Backups an einem von dir kontrollierten Ort aufzubewahren.",
+          "Ein passwortverschlüsseltes .ovelyra-Backup enthält das vollständige Ovelyra-Benutzerarchiv zum Sicherungszeitpunkt, einschließlich mit Plus erstellter Daten, die in Free aktuell gesperrt sein können. Ovelyra kennt oder speichert das Backup-Passwort nicht; der Entwickler kann es nicht wiederherstellen. Bezahlte/Rewarded-Plus-Berechtigungen, Abo-Status und Belege werden nicht aus dem Backup wiederhergestellt. Absichtlich gespeicherte oder geteilte PDFs sind offene, unverschlüsselte Exporte und müssen entsprechend geschützt werden."
         ]
       },
       {
@@ -178,21 +178,21 @@
       {
         "heading": "Bezahlte Ovelyra-Plus-Abos",
         "body": [
-          "Monatliches und jährliches Plus sind automatisch verlängerbare Abos über Apple App Store oder Google Play. Vor Kauf müssen Name, Dauer und aktueller Preis angezeigt werden. Ohne Kündigung kann sich das Abo nach Store-Bedingungen automatisch verlängern.",
-          "Kündigung, Verlängerung, mögliche Zahlungs-Nachfrist, Kaufwiederherstellung und Zahlung werden vom Store und anwendbarem Recht geregelt. Kündigung stoppt normalerweise künftige Verlängerungen; bezahlter Zugriff bleibt bis zum vom Store gemeldeten Ende der Berechtigung bestehen."
+          "Monatliches und jährliches Ovelyra Plus sind automatisch verlängernde Abonnements, die ausschließlich über den Apple App Store gekauft werden. Vor dem Kauf zeigt Apples Kaufdialog Produkt, Laufzeit und aktuellen Preis. Ohne Kündigung kann sich das Abo nach Apples Bedingungen automatisch verlängern.",
+          "Kündigung, Verlängerungszeitpunkt, gegebenenfalls Zahlungsnachfrist, Wiederherstellung von Käufen und Zahlungsabwicklung werden von Apple und geltendem Recht bestimmt. Ovelyra prüft verifizierte aktuelle StoreKit-Berechtigungen auf dem Gerät; ein separater Entwickler-Server erteilt keinen Plus-Zugriff."
         ]
       },
       {
         "heading": "Nach Ende des bezahlten Plus",
         "body": [
-          "Das Ende des Abos löscht keine während Plus erstellten Inhalte. Wenn du 10 Kapseln erstellt hast, bleiben alle 10. In Free kannst du vorhandene Kapseln sehen/öffnen/löschen, aber keine neue erstellen, bis die Gesamtzahl unter drei liegt.",
-          "Andere Plus-Funktionen wie Erstellen, PDF-Export, Themes, Avatare oder erweiterte Analysen können bis zur erneuten Aktivierung gesperrt sein oder auf Free-Verhalten zurückfallen."
+          "Das Ende eines bezahlten Abos löscht niemals nutzergenerierte Inhalte. Sind nach dem Ende von Plus zum Beispiel 6 Zeitkapseln gespeichert, bleiben alle 6 erhalten und werden in verschlüsselte Backups aufgenommen. In Free sind nur die nach Erstellungszeit ältesten 3 zugänglich; die übrigen 3 bleiben erhalten, aber gesperrt. Ihre privaten Titel/Nachrichten können bis zur erneuten Aktivierung eines bezahlten Monats- oder Jahres-Plus nicht angesehen, geöffnet, bearbeitet oder gelöscht werden. Das 12-stündige Rewarded-Plus-Erlebnis entsperrt diese zusätzlichen, zahlungspflichtigen Kapseln nicht.",
+          "Wird bezahltes Plus erneut aktiv, sind dieselben erhaltenen Kapseln ohne Migration oder Duplizierung wieder zugänglich. Andere Plus-Funktionen wie Export, Themes, Avatare oder tiefere Analysen können ohne bezahltes Plus ausfallen oder auf Free-Verhalten zurückfallen; zugrunde liegende nutzergenerierte Daten werden allein wegen des Abo-Endes nicht gelöscht."
         ]
       },
       {
         "heading": "Erstattungen und Verwaltung",
         "body": [
-          "Apple oder Google verarbeitet Zahlungen. Verwaltung und Erstattungsanträge erfolgen über den jeweiligen Store nach dessen Regeln und zwingendem Verbraucherschutzrecht. Ovelyra erhält keine vollständigen Kartendaten."
+          "Zahlungen, Abo-Verwaltung, Kündigungen und Erstattungsanfragen werden über den Apple App Store nach Apples Regeln und zwingendem Verbraucherrecht abgewickelt. Ovelyra erhält keine vollständigen Kartendaten."
         ]
       },
       {
@@ -223,7 +223,7 @@
         "heading": "Kontakt",
         "body": [
           "Entwickler: Serhat DAĞ. E-Mail: serhatdagapps@gmail.com.",
-          "Bei technischen Problemen: Gerätemodell, Android/iOS-Version, Ovelyra-Version und kurze Beschreibung angeben."
+          "Bei technischen Problemen: iPhone-Modell, iOS-Version, Ovelyra-Version und eine kurze Beschreibung angeben."
         ]
       },
       {
@@ -235,13 +235,13 @@
       {
         "heading": "Lokale Daten und Wiederherstellung",
         "body": [
-          "Ovelyra betreibt kein Cloud-Tagebuchkonto. Support kann normalerweise Einträge, lokale Fotos/Audios oder ein vergessenes Backup-Passwort weder sehen noch wiederherstellen. Nutze dein eigenes verschlüsseltes Backup."
+          "Ovelyra verwendet kein vom Entwickler betriebenes Cloud-Tagebuchkonto. Der Support kann deine Tagebücher, lokalen Fotos/Audios oder ein vergessenes Backup-Passwort normalerweise weder sehen noch wiederherstellen. Dein passwortverschlüsseltes .ovelyra-Backup kann das vollständige archivierte Benutzerarchiv auf ein anderes Gerät übertragen, einschließlich mit Plus erstellter Inhalte, die in Free gesperrt sein können; bezahlte oder Rewarded-Plus-Berechtigungen selbst werden niemals aus dem Backup wiederhergestellt."
         ]
       },
       {
         "heading": "Abos, Datenschutz und KVKK-Anfragen",
         "body": [
-          "Abrechnung, Kündigung und Erstattungen laufen über Apple App Store oder Google Play. Datenschutz- oder KVKK-Anfragen können ebenfalls an serhatdagapps@gmail.com gesendet werden; falls zum Schutz der Daten nötig, kann eine angemessene Identitätsprüfung verlangt werden."
+          "Abrechnung, Kündigung, Abo-Verwaltung und Erstattungen werden über den Apple App Store abgewickelt. Datenschutz- oder KVKK-Anfragen können ebenfalls an serhatdagapps@gmail.com gesendet werden; zum Schutz deiner Daten kann bei Bedarf eine angemessene Identitätsprüfung verlangt werden."
         ]
       }
     ]

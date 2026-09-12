@@ -6,7 +6,7 @@
       {
         "heading": "अंतिम अपडेट और डेटा नियंत्रक",
         "body": [
-          "अंतिम अपडेट: 24 अगस्त 2026। Ovelyra के नियंत्रण में होने वाली प्रोसेसिंग के डेवलपर और डेटा नियंत्रक: Serhat DAĞ। गोपनीयता और सहायता संपर्क: serhatdagapps@gmail.com।"
+          "अंतिम अपडेट: 11 सितंबर 2026। Ovelyra के नियंत्रण में होने वाली processing के लिए developer और data controller: Serhat DAĞ। Privacy और support contact: serhatdagapps@gmail.com।"
         ]
       },
       {
@@ -20,7 +20,7 @@
       {
         "heading": "डिवाइस से बाहर जा सकने वाली जानकारी",
         "body": [
-          "Google Mobile Ads और उसके consent tools विज्ञापन दिखाने, मापने और सुरक्षित रखने के लिए आवश्यक सीमित तकनीकी और विज्ञापन डेटा प्रोसेस कर सकते हैं। Apple App Store या Google Play खरीद को प्रोसेस करते हैं और Ovelyra को product, transaction और subscription/entitlement status दे सकते हैं। Ovelyra आपके कार्ड की पूरी जानकारी प्राप्त नहीं करता।",
+          "Google Mobile Ads और उसके consent tools विज्ञापन दिखाने, मापने और सुरक्षित रखने के लिए जरूरी technical और advertising data process कर सकते हैं। Ovelyra Plus की खरीद केवल Apple App Store से process होती है। iOS पर Ovelyra device पर verified StoreKit transaction/entitlement information से मौजूदा paid access तय करता है। Developer द्वारा चलाया गया अलग subscription-verification server इस्तेमाल नहीं होता और Ovelyra को पूरी payment-card details नहीं मिलतीं।",
           "यदि आप सहायता से संपर्क करते हैं, तो आपका ईमेल, संदेश और आपके द्वारा स्वेच्छा से भेजी गई डिवाइस/ऐप जानकारी केवल जवाब देने, समस्या हल करने, सेवा की सुरक्षा या कानूनी दायित्वों के लिए प्रोसेस की जाती है। आवश्यकता न हो तो निजी जर्नल टेक्स्ट, बैकअप पासवर्ड या अन्य संवेदनशील सामग्री न भेजें।",
           "यह कानूनी साइट GitHub Pages पर होस्ट है। GitHub अपनी नीतियों के अनुसार तकनीकी कनेक्शन डेटा प्रोसेस कर सकता है। साइट केवल चुनी गई भाषा को ब्राउज़र के local storage में रखती है। Ovelyra फिलहाल आपकी निजी जर्नल गतिविधि के लिए अलग analytics SDK का उपयोग नहीं करता।"
         ]
@@ -29,26 +29,26 @@
         "heading": "विज्ञापन और सहमति",
         "body": [
           "Free उपयोगकर्ता चुनिंदा secondary screens पर Google Mobile Ads देख सकते हैं और वैकल्पिक rewarded ad पूरा देखकर 12 घंटे का अस्थायी Ovelyra Plus अनुभव पा सकते हैं। प्लेटफ़ॉर्म, सेटिंग, consent और लागू कानून के अनुसार Google Mobile Ads IP address, IP से अनुमानित सामान्य location, उपलब्ध device/advertising identifiers, app/ad interactions, advertising data, diagnostics/performance और consent status प्रोसेस कर सकता है।",
-          "Ovelyra जर्नल टेक्स्ट, मूड इतिहास, सपने, फ़ोटो, वॉइस नोट्स, प्रश्न उत्तर या memory capsule content को जानबूझकर ad SDK को नहीं भेजता। जहाँ आवश्यक हो, Google consent tools का उपयोग किया जाता है और ऐप में उपलब्ध ad privacy choices को दोबारा प्रबंधित किया जा सकता है।"
+          "Ovelyra आपके journal text, mood history, dreams, photos, voice notes, prompt answers या capsule content को advertising SDK को जानबूझकर नहीं भेजता। EEA, United Kingdom और Switzerland के eligible users के लिए, ads request करने से पहले जहाँ जरूरी हो वहाँ Google UMP / European regulations consent message इस्तेमाल किया जाता है। Google जब privacy options को required और available बताता है, Settings से उन्हें फिर खोला जा सकता है।"
         ]
       },
       {
         "heading": "सब्सक्रिप्शन और भुगतान",
         "body": [
-          "Ovelyra Plus के मासिक और वार्षिक सब्सक्रिप्शन Apple App Store या Google Play से खरीदे जाते हैं। भुगतान, billing, renewal, cancellation और refund संबंधित store के नियमों के अनुसार होते हैं। Ovelyra केवल Plus unlock/restore के लिए आवश्यक सीमित purchase और entitlement information प्राप्त कर सकता है।"
+          "Monthly और yearly Ovelyra Plus subscriptions केवल Apple App Store से खरीदे जाते हैं। Payment, billing, renewal, cancellation और refund requests Apple की शर्तों के अनुसार Apple संभालता है। Ovelyra paid Plus access unlock या restore करने के लिए device पर verified StoreKit entitlement information इस्तेमाल करता है।"
         ]
       },
       {
         "heading": "अनुमतियाँ, widgets और sharing",
         "body": [
           "Notification permission reminders के लिए माँगी जाती है। Photo/camera केवल image जोड़ते समय और microphone केवल audio record करते समय माँगा जाता है। मुख्य सुविधाओं के लिए contacts या precise location आवश्यक नहीं है।",
-          "यदि home-screen widget सक्षम है, तो चुना हुआ mood आपके device home screen पर दिखाई दे सकता है। Backup, PDF, image या अन्य file को system share menu से भेजने पर चुनी गई destination service अपने नियमों के अनुसार file प्रोसेस करती है।"
+          "Home-screen widget enable करने पर चुनी गई mood information device की home screen पर दिखाई दे सकती है। .ovelyra backup save या share होने पर password-encrypted archive ही रहता है। PDF एक clear, unencrypted export है। Ovelyra के बाहर backup, PDF, image या दूसरी file save/share करने पर चुना गया destination अपनी terms के अनुसार उस file को process और protect करता है।"
         ]
       },
       {
         "heading": "रिटेंशन, deletion और सुरक्षा",
         "body": [
-          "स्थानीय सामग्री तब तक डिवाइस पर रहती है जब तक आप उसे हटाते, ऐप reset करते, local data हटाने वाली uninstall करते या data replace/restore करते हैं। Encrypted .ovelyra backup केवल आपके अनुरोध पर बनता है; password भूलने पर Ovelyra उसे recover नहीं कर सकता।",
+          "Local Ovelyra content आपके device पर तब तक रहता है जब तक आप उसे delete, app reset, local data हटाने वाली uninstall, या data replace/restore नहीं करते। Encrypted .ovelyra backup में backup के समय Ovelyra द्वारा शामिल पूरा user archive होता है, जिसमें Plus के दौरान बनाया गया और Free limit के कारण अभी locked content भी शामिल है। Paid/rewarded Plus entitlement और subscription state शामिल नहीं होते। Backup केवल आपके कहने पर बनता है; password भूलने पर Ovelyra उसे recover नहीं कर सकता।",
           "Support messages केवल जवाब देने, troubleshooting, अधिकारों की रक्षा या कानूनी दायित्वों के लिए उचित रूप से आवश्यक अवधि तक रखे जाते हैं और बाद में delete/minimize किए जाते हैं। Third-party providers अपनी retention policies लागू करते हैं।",
           "Ovelyra local encryption और platform security features का उपयोग करता है, लेकिन किसी storage या transmission method की पूर्ण सुरक्षा की गारंटी नहीं दी जा सकती।"
         ]
@@ -62,7 +62,7 @@
       {
         "heading": "आपकी choices और अधिकार",
         "body": [
-          "आप ऐप में local Ovelyra data manage/delete कर सकते हैं, notifications बदल सकते हैं, उपलब्ध ad privacy choices manage कर सकते हैं और paid subscription store से manage कर सकते हैं। Privacy, data protection या support: serhatdagapps@gmail.com।"
+          "आप app से local Ovelyra data manage या erase कर सकते हैं, notifications बदल सकते हैं, उपलब्ध Google advertising privacy choices देख सकते हैं और paid Ovelyra Plus subscription को Apple App Store से manage कर सकते हैं। Privacy, data-protection या support requests serhatdagapps@gmail.com पर भेजी जा सकती हैं।"
         ]
       },
       {
@@ -80,7 +80,7 @@
       {
         "heading": "डेटा नियंत्रक",
         "body": [
-          "डेटा नियंत्रक: Serhat DAĞ। संपर्क: serhatdagapps@gmail.com। अंतिम अपडेट: 24 अगस्त 2026।"
+          "अंतिम अपडेट: 11 सितंबर 2026। Ovelyra के नियंत्रण में होने वाली processing के लिए developer और data controller: Serhat DAĞ। Privacy और support contact: serhatdagapps@gmail.com।"
         ]
       },
       {
@@ -94,7 +94,7 @@
         "body": [
           "Support: ईमेल पता, message content, स्वेच्छा से दी गई device/app information और correspondence records।",
           "Advertising/consent: Google Mobile Ads और consent services सीमित technical identifiers, IP, IP से derived general location, उपलब्ध ad/app identifiers, interactions, diagnostics/performance और consent choices प्रोसेस कर सकते हैं।",
-          "Purchases: Apple App Store या Google Play product, transaction, subscription status और entitlement information प्रोसेस कर सकते हैं। Ovelyra पूरी card details प्राप्त नहीं करता।",
+          "Purchases के लिए Apple App Store product, transaction, subscription status और entitlement information process कर सकता है। Ovelyra device पर verified StoreKit entitlement information check करता है और developer द्वारा चलाया गया अलग subscription-verification server इस्तेमाल नहीं करता। Ovelyra को पूरी card details नहीं मिलतीं।",
           "Legal site: GitHub Pages technical request information प्रोसेस कर सकता है; चुनी गई भाषा browser में local रहती है।"
         ]
       },
@@ -114,7 +114,7 @@
       {
         "heading": "Recipients और transfers",
         "body": [
-          "Feature के अनुसार limited data advertising/consent के लिए Google, billing/entitlement के लिए Apple या Google, legal website hosting के लिए GitHub, और user द्वारा explicitly share/export करने पर चुनी गई destination service द्वारा प्रोसेस हो सकता है। Private journal content जानबूझकर ad providers को transfer नहीं किया जाता।",
+          "Feature के अनुसार limited data advertising और consent के लिए Google, App Store payment/subscription entitlement के लिए Apple, legal site hosting के लिए GitHub और file export/share करते समय आपके चुने destination service को transfer हो सकता है। Private journal content advertising providers को जानबूझकर transfer नहीं किया जाता।",
           "Global providers applicable international transfer rules, safeguards और service terms के अनुसार Türkiye के बाहर data प्रोसेस कर सकते हैं।"
         ]
       },
@@ -145,7 +145,7 @@
       {
         "heading": "डेवलपर, संपर्क और तारीख",
         "body": [
-          "डेवलपर: Serhat DAĞ। Support: serhatdagapps@gmail.com। प्रभावी/अंतिम अपडेट: 24 अगस्त 2026।"
+          "Developer: Serhat DAĞ। Support: serhatdagapps@gmail.com। Effective/last updated: 11 सितंबर 2026।"
         ]
       },
       {
@@ -164,8 +164,8 @@
       {
         "heading": "Local storage, security और backups",
         "body": [
-          "Ovelyra offline-first है और developer-operated cloud journal account नहीं देता। Device loss, reset, app deletion या storage failure local data unavailable कर सकता है। अपने encrypted backups सुरक्षित रखने की जिम्मेदारी आपकी है।",
-          "Backup password Ovelyra को ज्ञात नहीं होता और भूलने पर recover नहीं किया जा सकता।"
+          "Ovelyra offline-first है और developer-operated cloud journal account नहीं देता। Device loss, OS reset, app deletion या storage failure से local data unavailable हो सकता है। बनाए गए encrypted backups को अपने control वाले सुरक्षित स्थान पर रखना आपकी जिम्मेदारी है।",
+          "Password-encrypted .ovelyra backup में backup के समय पूरा Ovelyra user archive होता है, जिसमें Plus के दौरान बनाया गया और Free में locked data भी शामिल हो सकता है। Ovelyra backup password को जानता या store नहीं करता और developer इसे recover नहीं कर सकता। Paid/rewarded Plus entitlement, subscription state और receipts backup से restore नहीं होते। जानबूझकर save/share किए गए PDFs clear, unencrypted exports हैं और उसी अनुसार सुरक्षित रखे जाने चाहिए।"
         ]
       },
       {
@@ -178,21 +178,21 @@
       {
         "heading": "Paid Ovelyra Plus subscriptions",
         "body": [
-          "Monthly और yearly Ovelyra Plus Apple App Store या Google Play से खरीदे जाने वाले auto-renewable subscriptions हैं। Purchase से पहले subscription title, duration और current price दिखना चाहिए। Cancel न करने पर store terms के अनुसार auto-renew हो सकता है।",
-          "Cancellation, renewal timing, applicable billing grace period, restore purchases और payment handling संबंधित store और applicable law के अधीन हैं। Cancellation सामान्यतः future renewal रोकता है; paid access store-reported entitlement expiry तक चलता है।"
+          "Monthly और yearly Ovelyra Plus केवल Apple App Store से खरीदे जाने वाले auto-renewable subscriptions हैं। Purchase से पहले Apple purchase sheet product, duration और current price दिखाती है। Cancel न करने पर subscription Apple terms के अनुसार auto-renew हो सकता है।",
+          "Cancellation, renewal timing, लागू billing grace period, purchase restore और payment processing Apple और applicable law के अधीन हैं। Ovelyra device पर verified StoreKit current entitlement check करता है; कोई अलग developer server Plus access grant नहीं करता।"
         ]
       },
       {
         "heading": "Paid Plus समाप्त होने पर",
         "body": [
-          "Subscription समाप्त होने से Plus के दौरान बनाया content delete नहीं होता। यदि आपने 10 memory capsules बनाए, तो सभी 10 बने रहते हैं। Free में existing capsules देख/खोल/delete कर सकते हैं, लेकिन total तीन से कम होने तक नया capsule नहीं बना सकते।",
-          "PDF export, Plus themes, avatars और advanced analytics जैसी अन्य Plus-only features Plus फिर active होने तक unavailable या Free behavior पर लौट सकती हैं।"
+          "Paid subscription खत्म होने से user-created content कभी delete नहीं होता। उदाहरण के लिए paid Plus खत्म होने के बाद 6 Time Capsules stored हैं तो सभी 6 device पर रहते हैं और encrypted backups में शामिल होते हैं। Free में creation time के हिसाब से सबसे पुराने 3 accessible रहते हैं; बाकी 3 preserved लेकिन locked रहते हैं और paid monthly/yearly Plus entitlement दोबारा active होने तक उनके private titles/messages देखे, खोले, edit या delete नहीं किए जा सकते। 12-hour rewarded Plus experience इन paid-only extra capsules को unlock नहीं करता।",
+          "Paid Plus दोबारा active होने पर वही preserved capsules migration या duplication के बिना फिर accessible हो जाते हैं। Export, themes, avatars या deeper analysis जैसी दूसरी Plus features unavailable हो सकती हैं या Free behavior पर लौट सकती हैं, लेकिन entitlement खत्म होने के कारण underlying user-created data delete नहीं होता।"
         ]
       },
       {
         "heading": "Refunds और subscription management",
         "body": [
-          "Payments Apple या Google process करते हैं। Subscription management और refund requests relevant store rules और mandatory consumer law के अनुसार store के माध्यम से होते हैं। Ovelyra पूरी card information सीधे प्राप्त नहीं करता।"
+          "Payments, subscription management, cancellation और refund requests Apple App Store के जरिए Apple rules और mandatory consumer law के अनुसार handle होते हैं। Ovelyra पूरी payment-card details सीधे नहीं लेता।"
         ]
       },
       {
@@ -223,7 +223,7 @@
         "heading": "संपर्क",
         "body": [
           "डेवलपर: Serhat DAĞ। ईमेल: serhatdagapps@gmail.com।",
-          "Technical issue report करते समय device model, Android/iOS version, Ovelyra version और short description दें।"
+          "Technical issue report करते समय iPhone model, iOS version, Ovelyra version और short description दें।"
         ]
       },
       {
@@ -235,13 +235,13 @@
       {
         "heading": "Local data और recovery",
         "body": [
-          "Ovelyra cloud journal account operate नहीं करता। Support सामान्यतः journal entries, local photos/audio या भूला हुआ encrypted-backup password देख या recover नहीं कर सकता। Portability या recovery के लिए अपना encrypted backup उपयोग करें।"
+          "Ovelyra developer-operated cloud journal account इस्तेमाल नहीं करता। Support आमतौर पर आपके journals, local photos/audio या भूला backup password देख या recover नहीं कर सकता। Password-encrypted .ovelyra backup पूरा archived user data दूसरे device पर ले जा सकता है, जिसमें Plus के दौरान बनाया गया और Free में locked content भी शामिल है; paid या rewarded Plus entitlement खुद backup से कभी restore नहीं होता।"
         ]
       },
       {
         "heading": "Subscriptions, privacy और KVKK requests",
         "body": [
-          "Billing, cancellation और refunds Apple App Store या Google Play से manage होते हैं। Privacy या KVKK requests serhatdagapps@gmail.com पर भी भेजी जा सकती हैं; data protection के लिए आवश्यक होने पर reasonable identity verification माँगी जा सकती है।"
+          "Billing, cancellation, subscription management और refund requests Apple App Store से handle होते हैं। Privacy या KVKK requests serhatdagapps@gmail.com पर भी भेजी जा सकती हैं; data protection के लिए जरूरत होने पर reasonable identity verification मांगी जा सकती है।"
         ]
       }
     ]

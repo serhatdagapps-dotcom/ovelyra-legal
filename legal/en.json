@@ -6,7 +6,7 @@
       {
         "heading": "Last updated and data controller",
         "body": [
-          "Last updated: 24 August 2026. Developer and data controller for processing under Ovelyra’s control: Serhat DAĞ. Privacy and support contact: serhatdagapps@gmail.com."
+          "Last updated: 11 September 2026. Developer and data controller for processing under Ovelyra’s control: Serhat DAĞ. Privacy and support contact: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -20,7 +20,7 @@
       {
         "heading": "Information that may leave your device",
         "body": [
-          "Google Mobile Ads and its consent tools may process technical and advertising data needed to provide, measure and protect ads. Apple App Store or Google Play processes purchases and may provide Ovelyra with product, transaction and subscription-entitlement status. Ovelyra does not receive your full payment-card details.",
+          "Google Mobile Ads and its consent tools may process technical and advertising data needed to provide, measure and protect ads. Apple App Store processes Ovelyra Plus purchases. On iOS, Ovelyra determines current paid access from verified StoreKit transaction-entitlement information on the device. Ovelyra does not use a separate developer-operated subscription-verification server and does not receive your full payment-card details.",
           "If you contact support, your email address, message and any device/app details you choose to send are processed only to respond, troubleshoot, protect the service or meet legal obligations. Please do not send private journal text, backup passwords or other sensitive content unless it is necessary.",
           "This legal website is hosted on GitHub Pages. GitHub may process technical connection data under its own privacy terms. The website stores only your selected legal-page language in your browser’s local storage. Ovelyra currently does not use a separate analytics SDK for your private journal activity."
         ]
@@ -29,26 +29,26 @@
         "heading": "Advertising and consent",
         "body": [
           "Free users may see Google Mobile Ads on selected secondary screens and may choose a rewarded ad for a temporary 12-hour Ovelyra Plus experience. Depending on platform, configuration, consent and applicable law, Google Mobile Ads may process information such as IP address, a general location estimate derived from IP, device or advertising identifiers where available, app/ad interactions, advertising data, diagnostics/performance data and consent state.",
-          "Ovelyra does not intentionally send your journal text, mood history, dreams, photos, voice notes, prompt answers or memory-capsule content to the advertising SDK. Where required, Ovelyra uses Google’s consent tools and provides an in-app way to review available advertising privacy choices."
+          "Ovelyra does not intentionally send your journal text, mood history, dreams, photos, voice notes, prompt answers or memory-capsule content to the advertising SDK. For eligible users in the EEA, United Kingdom and Switzerland, Ovelyra uses Google UMP / European regulations consent messaging where required before ads are requested. Settings provides Google advertising privacy options when Google reports that those options are required and available."
         ]
       },
       {
         "heading": "Subscriptions and payments",
         "body": [
-          "Monthly and yearly Ovelyra Plus subscriptions are purchased through Apple App Store or Google Play. Those stores process payment information, billing, renewal, cancellation and refund requests under their own terms. Ovelyra may receive limited purchase and entitlement information needed to unlock or restore Plus features."
+          "Monthly and yearly Ovelyra Plus subscriptions are purchased only through Apple App Store. Apple processes payment information, billing, renewal, cancellation and refund requests under its own terms. Ovelyra uses verified StoreKit entitlement information on the device to unlock or restore paid Plus access."
         ]
       },
       {
         "heading": "Permissions, widgets and sharing",
         "body": [
           "Notification permission is requested for reminders. Photo/camera access is requested only when you choose to add an image, and microphone access only when you choose to record audio. Core Ovelyra features do not require contacts or precise location.",
-          "If you enable the home-screen widget, the mood information you choose to display may be visible on your device home screen. If you export or share a backup, PDF, image or other file through the system share sheet, the destination service you select processes that file under its own terms."
+          "If you enable the home-screen widget, the mood information you choose to display may be visible on your device home screen. An .ovelyra backup remains a password-encrypted archive when you save or share it. A PDF is a clear, unencrypted export. If you save or share a backup, PDF, image or other file outside Ovelyra, the destination you choose processes and protects that file under its own terms."
         ]
       },
       {
         "heading": "Retention, deletion and security",
         "body": [
-          "Local Ovelyra content remains on your device until you delete it, reset the app, uninstall the app in a way that removes local data, or replace/restore data. Encrypted .ovelyra backups are created only when you request them; if you forget the backup password, Ovelyra cannot recover it.",
+          "Local Ovelyra content remains on your device until you delete it, reset the app, uninstall the app in a way that removes local data, or replace/restore data. An encrypted .ovelyra backup contains the complete user archive included by Ovelyra at backup time, including Plus-created content that is currently locked by Free access limits. Paid/rewarded Plus entitlement and subscription state are not included. The backup is created only when you request it, and if you forget its password Ovelyra cannot recover it.",
           "Support messages are retained only as reasonably necessary to respond, troubleshoot, protect legal rights or meet legal obligations, and are deleted or minimized when no longer needed. Third-party providers apply their own retention rules to data they process.",
           "Ovelyra uses local encryption and platform security features, but no storage or transmission method can be guaranteed to be completely secure."
         ]
@@ -62,7 +62,7 @@
       {
         "heading": "Your choices and rights",
         "body": [
-          "You can manage or erase local Ovelyra data from the app, change notification settings, manage available advertising privacy choices, and manage paid subscriptions through the relevant app store. Privacy, data-protection or support requests can be sent to serhatdagapps@gmail.com."
+          "You can manage or erase local Ovelyra data from the app, change notification settings, review available Google advertising privacy choices, and manage paid Ovelyra Plus subscriptions through Apple App Store. Privacy, data-protection or support requests can be sent to serhatdagapps@gmail.com."
         ]
       },
       {
@@ -80,7 +80,7 @@
       {
         "heading": "Data controller",
         "body": [
-          "Data controller: Serhat DAĞ. Contact: serhatdagapps@gmail.com. Last updated: 24 August 2026."
+          "Last updated: 11 September 2026. Developer and data controller for processing under Ovelyra’s control: Serhat DAĞ. Privacy and support contact: serhatdagapps@gmail.com."
         ]
       },
       {
@@ -94,7 +94,7 @@
         "body": [
           "When you contact support: email address, message content, device/app details you voluntarily provide and correspondence records.",
           "For advertising and consent: limited device/network identifiers, IP address, general location estimate derived from IP, advertising or app identifiers where available, ad/app interaction data, diagnostics/performance data and consent choices may be processed through Google Mobile Ads/Google consent services.",
-          "For purchases: product, transaction, subscription status and entitlement information may be processed through Apple App Store or Google Play. Full card details are not received by Ovelyra.",
+          "For purchases: Apple App Store may process product, transaction, subscription status and entitlement information. Ovelyra checks verified StoreKit entitlement information on the device and does not use a separate developer-operated subscription-verification server. Full card details are not received by Ovelyra.",
           "When visiting the legal website: GitHub Pages may process technical request information, while the chosen language is stored locally in the browser."
         ]
       },
@@ -114,7 +114,7 @@
       {
         "heading": "Recipients and transfers",
         "body": [
-          "As relevant to the feature used, limited data may be handled by Google for advertising/consent services, Apple or Google for app-store billing and entitlement services, GitHub for hosting the legal website, and a destination service chosen by you when you explicitly share/export a file. Private journal content is not intentionally transferred to advertising providers.",
+          "Depending on the feature used, limited data may be transferred to Google for advertising and consent services, to Apple for App Store payment/subscription entitlement services, to GitHub for hosting the legal website, and to the destination service you explicitly choose when exporting or sharing a file. Private journal content is not intentionally transferred to advertising providers.",
           "Global service providers may process data abroad. Such processing is handled subject to applicable cross-border transfer rules, provider safeguards and the relevant service terms."
         ]
       },
@@ -145,7 +145,7 @@
       {
         "heading": "Developer, contact and effective date",
         "body": [
-          "Developer: Serhat DAĞ. Support: serhatdagapps@gmail.com. Effective/last updated: 24 August 2026."
+          "Developer: Serhat DAĞ. Support: serhatdagapps@gmail.com. Effective/last updated: 11 September 2026."
         ]
       },
       {
@@ -164,8 +164,8 @@
       {
         "heading": "Local storage, security and backups",
         "body": [
-          "Ovelyra is offline-first and does not provide a developer-operated cloud journal account. Device loss, operating-system reset, app deletion or storage failure can make local data unavailable. You are responsible for keeping any encrypted backups you choose to create.",
-          "Backup passwords are not known to Ovelyra and cannot be recovered by the developer if forgotten."
+          "Ovelyra is offline-first and does not provide a developer-operated cloud journal account. Device loss, operating-system reset, app deletion or storage failure can make local data unavailable. You are responsible for keeping any encrypted backups you choose to create somewhere you control.",
+          "A password-encrypted .ovelyra backup contains the complete Ovelyra user archive included at backup time, including Plus-created data that may currently be locked on Free. The backup password is not known or stored by Ovelyra and cannot be recovered by the developer. Paid/rewarded Plus entitlement, subscription state and receipts are not restored from the backup. PDFs you deliberately save or share are clear, unencrypted exports and should be protected accordingly."
         ]
       },
       {
@@ -178,21 +178,21 @@
       {
         "heading": "Paid Ovelyra Plus subscriptions",
         "body": [
-          "Monthly and yearly Ovelyra Plus are auto-renewable subscriptions purchased through Apple App Store or Google Play. Before purchase, the store/app purchase screen must show the subscription title, duration and current price. Unless cancelled, the subscription may renew automatically according to the store terms.",
-          "Cancellation, renewal timing, billing grace periods, restore-purchase behavior and payment handling are governed by the relevant app store and applicable law. Cancelling normally stops future renewal; paid access continues until the store-reported entitlement expires."
+          "Monthly and yearly Ovelyra Plus are auto-renewable subscriptions purchased only through Apple App Store. Before purchase, Apple’s purchase sheet shows the subscription product, duration and current price. Unless cancelled, the subscription may renew automatically according to Apple’s terms.",
+          "Cancellation, renewal timing, billing grace periods where applicable, restoring purchases and payment processing are controlled by Apple and applicable law. Ovelyra checks verified StoreKit current-entitlement information on the device; no separate developer subscription-verification server grants Plus access."
         ]
       },
       {
         "heading": "What happens when paid Plus expires",
         "body": [
-          "Ending a paid subscription does not delete content created while Plus was active. For example, if you created 10 memory capsules while paid Plus was active, all 10 remain after expiry. In the Free state you may view/open/delete existing capsules, but you cannot create another one until your total falls below the Free limit of three.",
-          "Other Plus-only creation, export, theme, avatar or analysis features may become unavailable or revert to Free behavior until Plus is active again."
+          "Expiry of a paid subscription never deletes user-created content. If, for example, 6 Time Capsules are stored after paid Plus ends, all 6 remain stored and are included in encrypted backups. On Free, only the oldest 3 capsules by creation time are accessible; the other 3 remain preserved but locked, and their private titles/messages cannot be viewed, opened, edited or deleted until a paid monthly or yearly Plus entitlement becomes active again. The 12-hour rewarded Plus experience does not unlock these paid-only excess capsules.",
+          "When paid Plus becomes active again, the same preserved capsules become accessible again without migration or duplication. Other Plus-only export, theme, avatar or deeper-analysis features may be unavailable or revert to Free behavior while paid Plus is inactive, but their underlying user-created source data is not deleted merely because the entitlement ended."
         ]
       },
       {
         "heading": "Refunds and subscription management",
         "body": [
-          "Payments are processed by Apple or Google. Subscription management and refund requests are handled through the relevant store, subject to that store’s rules and mandatory consumer law. Ovelyra does not directly receive your full payment-card information."
+          "Payments, subscription management, cancellation and refund requests are handled through Apple App Store under Apple’s rules and mandatory consumer law. Ovelyra does not directly receive full payment-card information."
         ]
       },
       {
@@ -223,7 +223,7 @@
         "heading": "Contact",
         "body": [
           "Developer: Serhat DAĞ. Email: serhatdagapps@gmail.com.",
-          "When reporting a technical problem, include your device model, Android/iOS version, Ovelyra version and a short description of what happened."
+          "When reporting a technical problem, include your iPhone model, iOS version, Ovelyra version and a short description of what happened."
         ]
       },
       {
@@ -235,13 +235,13 @@
       {
         "heading": "Local data and recovery",
         "body": [
-          "Ovelyra does not operate a cloud journal account. Support normally cannot view or recover journal entries, local photos/audio or a forgotten encrypted-backup password. Use your own encrypted backup if you need portability or recovery."
+          "Ovelyra does not use a developer-operated cloud journal account. Support normally cannot view or recover your journals, local photos/audio or a forgotten backup password. Your password-encrypted .ovelyra backup can carry the full archived user data to another device, including Plus-created content that may be locked on Free; paid or rewarded Plus entitlement itself is never restored from the backup."
         ]
       },
       {
         "heading": "Subscriptions, privacy and KVKK requests",
         "body": [
-          "Billing, cancellation and refunds are managed through Apple App Store or Google Play. Privacy or KVKK requests may also be sent to serhatdagapps@gmail.com; reasonable identity verification may be requested when needed to protect the requester’s data."
+          "Billing, cancellation, subscription management and refund requests are handled through Apple App Store. Privacy or KVKK requests may also be sent to serhatdagapps@gmail.com; reasonable identity verification may be requested where needed to protect your data."
         ]
       }
     ]
